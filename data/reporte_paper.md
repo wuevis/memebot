@@ -1,53 +1,59 @@
 # Reporte del bot
 
-- Operaciones cerradas: **2**
-- Win rate: **50%**
-- PnL total: **-0.7533 SOL**
+- Operaciones cerradas: **3**
+- Win rate: **33%**
+- PnL total: **-0.8738 SOL**
 - Ganancia media: +0.1332 SOL
-- Pérdida media: -0.8864 SOL
-- Profit factor: 0.15
-- Tiempo medio en posición: 127 min
+- Pérdida media: -0.5035 SOL
+- Profit factor: 0.13
+- Tiempo medio en posición: 157 min
 
 ### Por motivo de salida
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
 | liquidez | 1 | 0% | -0.8864 | -99.1% |
+| stop | 1 | 0% | -0.1206 | -27.7% |
 | trailing | 1 | 100% | +0.1332 | +34.1% |
 
 ### Por score de momentum
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
-| 0.5–0.6 | 1 | 100% | +0.1332 | +34.1% |
+| 0.5–0.6 | 2 | 50% | +0.0126 | +3.2% |
 | 0.8–0.9 | 1 | 0% | -0.8864 | -99.1% |
 
 ### Por edad del token
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
 | 0h–1h | 1 | 0% | -0.8864 | -99.1% |
-| 1h–3h | 1 | 100% | +0.1332 | +34.1% |
+| 1h–3h | 2 | 50% | +0.0126 | +3.2% |
 
 ### Por liquidez (USD)
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
+| 100,000–250,000 | 1 | 0% | -0.1206 | -27.7% |
 | 25,000–50,000 | 2 | 50% | -0.7533 | -32.5% |
 
 ### Por subida en 1h al entrar
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
 | 15%–30% | 1 | 100% | +0.1332 | +34.1% |
+| 30%–60% | 1 | 0% | -0.1206 | -27.7% |
 | 60%–100% | 1 | 0% | -0.8864 | -99.1% |
 
 ### Por ratio compras/ventas
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
+| 1.6–2.0 | 1 | 0% | -0.1206 | -27.7% |
 | 2.0–3.0 | 2 | 50% | -0.7533 | -32.5% |
 
 ### Mejores y peores
 | token | PnL SOL | salida |
 |---|---|---|
 | GOMODOGE | +0.1332 | trailing stop (máx 66%, ahora 3%) |
+| SEAN | -0.1206 | stop loss -27.6% |
 | DOGELON | -0.8864 | liquidez cayó 95% |
 | GOMODOGE | +0.1332 | trailing stop (máx 66%, ahora 3%) |
+| SEAN | -0.1206 | stop loss -27.6% |
 | DOGELON | -0.8864 | liquidez cayó 95% |
 
 ## Configuración usada
@@ -58,11 +64,11 @@
   "rpc_url": "https://api.mainnet-beta.solana.com",
   "data_dir": "data",
   "scan_interval_sec": 20,
-  "paper_start_sol": 2.654646,
-  "position_size_sol": 0.265465,
+  "paper_start_sol": 2.66809,
+  "position_size_sol": 0.266809,
   "max_open_positions": 8,
-  "max_daily_loss_sol": 0.530929,
-  "min_sol_reserve": 0.026546,
+  "max_daily_loss_sol": 0.533618,
+  "min_sol_reserve": 0.026681,
   "cooldown_minutes": 720,
   "min_age_minutes": 10,
   "max_age_hours": 48,
