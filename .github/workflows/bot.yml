@@ -1,0 +1,43 @@
+name: memebot
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: memebot
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - name: Instalar bot (solo la primera vez)
+        run: |
+          if [ -f bundle.zip ]; then
+            unzip -o -q bundle.zip && rm bundle.zip
+            git config user.name "memebot"
+            git config user.email "memebot@users.noreply.github.com"
+            git add -A && git commit -m "Instalar bot" && git push
+          fi
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Correr bot (simulación)
+        env:
+          DRY_RUN: "true"
+          SCAN_INTERVAL_SEC: "20"
+        run: |
+          [ -f .env ] || cp .env.example .env
+          python -m memebot --duration 50
+          python -m memebot.analyze > /dev/null || true
+      - name: Guardar resultados
+        run: |
+          git config user.name "memebot"
+          git config user.email "memebot@users.noreply.github.com"
+          [ -f data/bot.log ] && tail -n 4000 data/bot.log > data/bot.tmp && mv data/bot.tmp data/bot.log
+          git add -f data/
+          git commit -m "Resultados $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
+          git pull --rebase && git push
