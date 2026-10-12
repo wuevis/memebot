@@ -29,9 +29,9 @@
         "roundtrip_loss_pct": 2.72,
         "size_usd": 43.4
       },
-      "peak_pnl_pct": 50.3518313260926,
+      "peak_pnl_pct": 54.3894426330658,
       "tp_done": false,
-      "last_value_sol": 0.567880913
+      "last_value_sol": 0.59720941
     },
     "8PGyHCKvSUjezHkV7KLwMacnmSJLe1YbRM1zvDVApump": {
       "token": "8PGyHCKvSUjezHkV7KLwMacnmSJLe1YbRM1zvDVApump",
@@ -61,9 +61,9 @@
         "roundtrip_loss_pct": 2.08,
         "size_usd": 48.48
       },
-      "peak_pnl_pct": 7.105313757418297,
+      "peak_pnl_pct": 12.480315990634438,
       "tp_done": false,
-      "last_value_sol": 0.446243947
+      "last_value_sol": 0.489531459
     },
     "A8JUiZLzjGAsKxE74evdspHcuW4hvhPbvryDhaDZpump": {
       "token": "A8JUiZLzjGAsKxE74evdspHcuW4hvhPbvryDhaDZpump",
@@ -93,9 +93,9 @@
         "roundtrip_loss_pct": 2.88,
         "size_usd": 45.87
       },
-      "peak_pnl_pct": 5.571123590192317,
+      "peak_pnl_pct": 20.449066189095365,
       "tp_done": false,
-      "last_value_sol": 0.433809457
+      "last_value_sol": 0.49490812
     }
   },
   "day": "2026-10-12",

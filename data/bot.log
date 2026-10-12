@@ -89,3 +89,21 @@
 03:46:20 INFO    Posiciones: 3 | PnL hoy: -0.8864 SOL | PnL total: -0.8864 SOL | saldo simulado: 0.5762 SOL
 03:46:20 INFO    Bot detenido. Posiciones abiertas: 3
 03:46:20 USD      Capital: $225.91 (empezo con $300, -24.7%) | efectivo $64.30 | en posiciones $161.60 | 3 abiertas | SOL=$111.61
+04:07:22 INFO    Modo: SIMULACIÓN | tamaño 0.269 SOL | máx 8 posiciones | pérdida diaria máx 0.538 SOL
+04:07:22 INFO      GOMODOGE   valor 0.6034 SOL  pnl  +54.4%  máx  +54.4%  131m
+04:07:23 INFO      SEAN       valor 0.4689 SOL  pnl   +7.7%  máx   +7.7%  121m
+04:07:25 INFO      FIGHT      valor 0.4944 SOL  pnl  +20.3%  máx  +20.3%   61m
+04:07:25 WARNING Límite de pérdida diaria alcanzado: no se abren posiciones hoy.
+04:07:25 INFO    Posiciones: 3 | PnL hoy: -0.8864 SOL | PnL total: -0.8864 SOL | saldo simulado: 0.5762 SOL
+04:07:42 INFO      GOMODOGE   valor 0.6033 SOL  pnl  +54.4%  máx  +54.4%  132m
+04:07:44 INFO      SEAN       valor 0.4810 SOL  pnl  +10.5%  máx  +10.5%  122m
+04:07:45 INFO      FIGHT      valor 0.4949 SOL  pnl  +20.4%  máx  +20.4%   61m
+04:07:45 WARNING Límite de pérdida diaria alcanzado: no se abren posiciones hoy.
+04:07:45 INFO    Posiciones: 3 | PnL hoy: -0.8864 SOL | PnL total: -0.8864 SOL | saldo simulado: 0.5762 SOL
+04:08:02 INFO      GOMODOGE   valor 0.5972 SOL  pnl  +52.8%  máx  +54.4%  132m
+04:08:04 INFO      SEAN       valor 0.4895 SOL  pnl  +12.5%  máx  +12.5%  122m
+04:08:05 INFO      FIGHT      valor 0.4949 SOL  pnl  +20.4%  máx  +20.4%   62m
+04:08:05 WARNING Límite de pérdida diaria alcanzado: no se abren posiciones hoy.
+04:08:05 INFO    Posiciones: 3 | PnL hoy: -0.8864 SOL | PnL total: -0.8864 SOL | saldo simulado: 0.5762 SOL
+04:08:05 INFO    Bot detenido. Posiciones abiertas: 3
+04:08:05 USD      Capital: $240.51 (empezo con $300, -19.8%) | efectivo $64.22 | en posiciones $176.29 | 3 abiertas | SOL=$111.46
