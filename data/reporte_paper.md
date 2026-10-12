@@ -1,6 +1,48 @@
 # Reporte del bot
 
-Todavía no hay operaciones cerradas.
+- Operaciones cerradas: **1**
+- Win rate: **0%**
+- PnL total: **-0.8864 SOL**
+- Ganancia media: n/a
+- Pérdida media: -0.8864 SOL
+- Profit factor: 0.00
+- Tiempo medio en posición: 63 min
+
+### Por motivo de salida
+| grupo | trades | win rate | PnL SOL | PnL medio % |
+|---|---|---|---|---|
+| liquidez | 1 | 0% | -0.8864 | -99.1% |
+
+### Por score de momentum
+| grupo | trades | win rate | PnL SOL | PnL medio % |
+|---|---|---|---|---|
+| 0.8–0.9 | 1 | 0% | -0.8864 | -99.1% |
+
+### Por edad del token
+| grupo | trades | win rate | PnL SOL | PnL medio % |
+|---|---|---|---|---|
+| 0h–1h | 1 | 0% | -0.8864 | -99.1% |
+
+### Por liquidez (USD)
+| grupo | trades | win rate | PnL SOL | PnL medio % |
+|---|---|---|---|---|
+| 25,000–50,000 | 1 | 0% | -0.8864 | -99.1% |
+
+### Por subida en 1h al entrar
+| grupo | trades | win rate | PnL SOL | PnL medio % |
+|---|---|---|---|---|
+| 60%–100% | 1 | 0% | -0.8864 | -99.1% |
+
+### Por ratio compras/ventas
+| grupo | trades | win rate | PnL SOL | PnL medio % |
+|---|---|---|---|---|
+| 2.0–3.0 | 1 | 0% | -0.8864 | -99.1% |
+
+### Mejores y peores
+| token | PnL SOL | salida |
+|---|---|---|
+| DOGELON | -0.8864 | liquidez cayó 95% |
+| DOGELON | -0.8864 | liquidez cayó 95% |
 
 ## Configuración usada
 ```json
@@ -10,11 +52,11 @@ Todavía no hay operaciones cerradas.
   "rpc_url": "https://api.mainnet-beta.solana.com",
   "data_dir": "data",
   "scan_interval_sec": 20,
-  "paper_start_sol": 2.685525,
-  "position_size_sol": 0.268553,
+  "paper_start_sol": 2.687931,
+  "position_size_sol": 0.268793,
   "max_open_positions": 8,
-  "max_daily_loss_sol": 0.537105,
-  "min_sol_reserve": 0.026855,
+  "max_daily_loss_sol": 0.537586,
+  "min_sol_reserve": 0.026879,
   "cooldown_minutes": 720,
   "min_age_minutes": 10,
   "max_age_hours": 48,

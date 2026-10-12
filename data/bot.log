@@ -69,3 +69,23 @@
 03:06:28 INFO    Posiciones: 4 | PnL hoy: +0.0000 SOL | PnL total: +0.0000 SOL | saldo simulado: 0.5685 SOL
 03:06:28 INFO    Bot detenido. Posiciones abiertas: 4
 03:06:28 USD      Capital: $307.97 (empezo con $300, +2.7%) | efectivo $63.51 | en posiciones $244.46 | 4 abiertas | SOL=$111.71
+03:45:37 INFO    Modo: SIMULACIÓN | tamaño 0.269 SOL | máx 8 posiciones | pérdida diaria máx 0.538 SOL
+03:45:38 INFO      GOMODOGE   valor 0.5625 SOL  pnl  +43.9%  máx  +50.4%  110m
+03:45:39 INFO      SEAN       valor 0.4594 SOL  pnl   +5.6%  máx   +7.1%  100m
+03:45:40 INFO      DOGELON    valor 0.0079 SOL  pnl  -99.1%  máx   +0.0%   63m
+03:45:41 INFO    VENTA DOGELON 100% -> 0.0076 SOL (-0.8864 SOL) | liquidez cayó 95%
+03:45:43 INFO      FIGHT      valor 0.4336 SOL  pnl   +5.5%  máx   +5.5%   39m
+03:45:43 WARNING Límite de pérdida diaria alcanzado: no se abren posiciones hoy.
+03:45:43 INFO    Posiciones: 3 | PnL hoy: -0.8864 SOL | PnL total: -0.8864 SOL | saldo simulado: 0.5762 SOL
+03:45:58 INFO      GOMODOGE   valor 0.5619 SOL  pnl  +43.8%  máx  +50.4%  110m
+03:45:59 INFO      SEAN       valor 0.4531 SOL  pnl   +4.1%  máx   +7.1%  100m
+03:46:00 INFO      FIGHT      valor 0.4338 SOL  pnl   +5.6%  máx   +5.6%   39m
+03:46:00 WARNING Límite de pérdida diaria alcanzado: no se abren posiciones hoy.
+03:46:00 INFO    Posiciones: 3 | PnL hoy: -0.8864 SOL | PnL total: -0.8864 SOL | saldo simulado: 0.5762 SOL
+03:46:18 INFO      GOMODOGE   valor 0.5679 SOL  pnl  +45.3%  máx  +50.4%  110m
+03:46:19 INFO      SEAN       valor 0.4462 SOL  pnl   +2.5%  máx   +7.1%  100m
+03:46:20 INFO      FIGHT      valor 0.4338 SOL  pnl   +5.6%  máx   +5.6%   40m
+03:46:20 WARNING Límite de pérdida diaria alcanzado: no se abren posiciones hoy.
+03:46:20 INFO    Posiciones: 3 | PnL hoy: -0.8864 SOL | PnL total: -0.8864 SOL | saldo simulado: 0.5762 SOL
+03:46:20 INFO    Bot detenido. Posiciones abiertas: 3
+03:46:20 USD      Capital: $225.91 (empezo con $300, -24.7%) | efectivo $64.30 | en posiciones $161.60 | 3 abiertas | SOL=$111.61
