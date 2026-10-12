@@ -1,45 +1,13 @@
 {
-  "paper_sol": 1.4147793650836586,
-  "positions": {
-    "A8JUiZLzjGAsKxE74evdspHcuW4hvhPbvryDhaDZpump": {
-      "token": "A8JUiZLzjGAsKxE74evdspHcuW4hvhPbvryDhaDZpump",
-      "symbol": "FIGHT",
-      "opened_at": 1791774388.596239,
-      "cost_sol": 0.41091677557962586,
-      "raw_amount": 279356713182,
-      "entry_liq_usd": 34088.21,
-      "features": {
-        "token": "A8JUiZLzjGAsKxE74evdspHcuW4hvhPbvryDhaDZpump",
-        "symbol": "FIGHT",
-        "score": 0.5455,
-        "price_usd": 0.00016,
-        "liquidity_usd": 34088,
-        "mcap_usd": 147551,
-        "age_min": 75.0,
-        "volume_h1": 96398,
-        "buys_h1": 1234,
-        "sells_h1": 713,
-        "buy_sell_ratio": 1.73,
-        "change_m5": 0.4,
-        "change_h1": 73.45,
-        "change_h6": 250.0,
-        "dex": "pumpswap",
-        "rugcheck_score": 29,
-        "lp_locked_pct": 100,
-        "roundtrip_loss_pct": 2.88,
-        "size_usd": 45.87
-      },
-      "peak_pnl_pct": 52.63412770512792,
-      "tp_done": false,
-      "last_value_sol": 0.596377278
-    }
-  },
+  "paper_sol": 2.0138303890836586,
+  "positions": {},
   "day": "2026-10-12",
-  "day_realized_sol": -0.8738448593367152,
-  "total_realized_sol": -0.8738448593367152,
+  "day_realized_sol": -0.6857106109163411,
+  "total_realized_sol": -0.6857106109163411,
   "cooldown_until": {
     "7KKUmUG4p8kta1sBbMHnRUNoBfXX4zYbUFHspdHwpump": 1791819941.745758,
     "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump": 1791824840.547816,
-    "8PGyHCKvSUjezHkV7KLwMacnmSJLe1YbRM1zvDVApump": 1791826943.0474138
+    "8PGyHCKvSUjezHkV7KLwMacnmSJLe1YbRM1zvDVApump": 1791826943.0474138,
+    "A8JUiZLzjGAsKxE74evdspHcuW4hvhPbvryDhaDZpump": 1791839275.1946084
   }
 }

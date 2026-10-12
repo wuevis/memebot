@@ -1,57 +1,60 @@
 # Reporte del bot
 
-- Operaciones cerradas: **3**
-- Win rate: **33%**
-- PnL total: **-0.8738 SOL**
-- Ganancia media: +0.1332 SOL
+- Operaciones cerradas: **4**
+- Win rate: **50%**
+- PnL total: **-0.6857 SOL**
+- Ganancia media: +0.1607 SOL
 - Pérdida media: -0.5035 SOL
-- Profit factor: 0.13
-- Tiempo medio en posición: 157 min
+- Profit factor: 0.32
+- Tiempo medio en posición: 208 min
 
 ### Por motivo de salida
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
 | liquidez | 1 | 0% | -0.8864 | -99.1% |
 | stop | 1 | 0% | -0.1206 | -27.7% |
+| tiempo | 1 | 100% | +0.1881 | +45.8% |
 | trailing | 1 | 100% | +0.1332 | +34.1% |
 
 ### Por score de momentum
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
-| 0.5–0.6 | 2 | 50% | +0.0126 | +3.2% |
+| 0.5–0.6 | 3 | 67% | +0.2007 | +17.4% |
 | 0.8–0.9 | 1 | 0% | -0.8864 | -99.1% |
 
 ### Por edad del token
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
 | 0h–1h | 1 | 0% | -0.8864 | -99.1% |
-| 1h–3h | 2 | 50% | +0.0126 | +3.2% |
+| 1h–3h | 3 | 67% | +0.2007 | +17.4% |
 
 ### Por liquidez (USD)
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
 | 100,000–250,000 | 1 | 0% | -0.1206 | -27.7% |
-| 25,000–50,000 | 2 | 50% | -0.7533 | -32.5% |
+| 25,000–50,000 | 3 | 67% | -0.5651 | -6.4% |
 
 ### Por subida en 1h al entrar
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
 | 15%–30% | 1 | 100% | +0.1332 | +34.1% |
 | 30%–60% | 1 | 0% | -0.1206 | -27.7% |
-| 60%–100% | 1 | 0% | -0.8864 | -99.1% |
+| 60%–100% | 2 | 50% | -0.6983 | -26.7% |
 
 ### Por ratio compras/ventas
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
-| 1.6–2.0 | 1 | 0% | -0.1206 | -27.7% |
+| 1.6–2.0 | 2 | 50% | +0.0675 | +9.0% |
 | 2.0–3.0 | 2 | 50% | -0.7533 | -32.5% |
 
 ### Mejores y peores
 | token | PnL SOL | salida |
 |---|---|---|
+| FIGHT | +0.1881 | tiempo máximo (361m) |
 | GOMODOGE | +0.1332 | trailing stop (máx 66%, ahora 3%) |
 | SEAN | -0.1206 | stop loss -27.6% |
 | DOGELON | -0.8864 | liquidez cayó 95% |
+| FIGHT | +0.1881 | tiempo máximo (361m) |
 | GOMODOGE | +0.1332 | trailing stop (máx 66%, ahora 3%) |
 | SEAN | -0.1206 | stop loss -27.6% |
 | DOGELON | -0.8864 | liquidez cayó 95% |
