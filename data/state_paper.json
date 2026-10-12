@@ -1,5 +1,5 @@
 {
-  "paper_sol": 0.9794572486632849,
+  "paper_sol": 0.568540473083659,
   "positions": {
     "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump": {
       "token": "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump",
@@ -29,9 +29,9 @@
         "roundtrip_loss_pct": 2.72,
         "size_usd": 43.4
       },
-      "peak_pnl_pct": 10.743072426713486,
+      "peak_pnl_pct": 50.3518313260926,
       "tp_done": false,
-      "last_value_sol": 0.432821147
+      "last_value_sol": 0.575080442
     },
     "8PGyHCKvSUjezHkV7KLwMacnmSJLe1YbRM1zvDVApump": {
       "token": "8PGyHCKvSUjezHkV7KLwMacnmSJLe1YbRM1zvDVApump",
@@ -61,9 +61,9 @@
         "roundtrip_loss_pct": 2.08,
         "size_usd": 48.48
       },
-      "peak_pnl_pct": 0.13409139685638394,
+      "peak_pnl_pct": 7.105313757418297,
       "tp_done": false,
-      "last_value_sol": 0.390498672
+      "last_value_sol": 0.437267126
     },
     "7KKUmUG4p8kta1sBbMHnRUNoBfXX4zYbUFHspdHwpump": {
       "token": "7KKUmUG4p8kta1sBbMHnRUNoBfXX4zYbUFHspdHwpump",
@@ -95,7 +95,39 @@
       },
       "peak_pnl_pct": 0.0,
       "tp_done": false,
-      "last_value_sol": 0.891096065
+      "last_value_sol": 0.765053516
+    },
+    "A8JUiZLzjGAsKxE74evdspHcuW4hvhPbvryDhaDZpump": {
+      "token": "A8JUiZLzjGAsKxE74evdspHcuW4hvhPbvryDhaDZpump",
+      "symbol": "FIGHT",
+      "opened_at": 1791774388.596239,
+      "cost_sol": 0.41091677557962586,
+      "raw_amount": 279356713182,
+      "entry_liq_usd": 34088.21,
+      "features": {
+        "token": "A8JUiZLzjGAsKxE74evdspHcuW4hvhPbvryDhaDZpump",
+        "symbol": "FIGHT",
+        "score": 0.5455,
+        "price_usd": 0.00016,
+        "liquidity_usd": 34088,
+        "mcap_usd": 147551,
+        "age_min": 75.0,
+        "volume_h1": 96398,
+        "buys_h1": 1234,
+        "sells_h1": 713,
+        "buy_sell_ratio": 1.73,
+        "change_m5": 0.4,
+        "change_h1": 73.45,
+        "change_h6": 250.0,
+        "dex": "pumpswap",
+        "rugcheck_score": 29,
+        "lp_locked_pct": 100,
+        "roundtrip_loss_pct": 2.88,
+        "size_usd": 45.87
+      },
+      "peak_pnl_pct": 0.0,
+      "tp_done": false,
+      "last_value_sol": 0.41091677557962586
     }
   },
   "day": "2026-10-12",

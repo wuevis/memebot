@@ -54,3 +54,18 @@
 02:43:25 INFO    Posiciones: 3 | PnL hoy: +0.0000 SOL | PnL total: +0.0000 SOL | saldo simulado: 0.9795 SOL
 02:43:25 INFO    Bot detenido. Posiciones abiertas: 3
 02:43:25 USD      Capital: $301.42 (empezo con $300, +0.5%) | efectivo $109.59 | en posiciones $191.83 | 3 abiertas | SOL=$111.89
+03:05:58 INFO    Modo: SIMULACIÓN | tamaño 0.269 SOL | máx 8 posiciones | pérdida diaria máx 0.537 SOL
+03:05:58 INFO      GOMODOGE   valor 0.5876 SOL  pnl  +50.4%  máx  +50.4%   70m
+03:06:00 INFO      SEAN       valor 0.4661 SOL  pnl   +7.1%  máx   +7.1%   60m
+03:06:01 INFO      DOGELON    valor 0.8647 SOL  pnl   -3.3%  máx   +0.0%   23m
+03:06:05 INFO    Escaneados 53 tokens, 0 pasan filtros de momentum.
+03:06:05 INFO    Posiciones: 3 | PnL hoy: +0.0000 SOL | PnL total: +0.0000 SOL | saldo simulado: 0.9795 SOL
+03:06:19 INFO      GOMODOGE   valor 0.5751 SOL  pnl  +47.1%  máx  +50.4%   70m
+03:06:20 INFO      SEAN       valor 0.4373 SOL  pnl   +0.5%  máx   +7.1%   60m
+03:06:21 INFO      DOGELON    valor 0.7651 SOL  pnl  -14.4%  máx   +0.0%   24m
+03:06:25 INFO    Escaneados 53 tokens, 1 pasan filtros de momentum.
+03:06:27 INFO    Potencial 0.55 -> se invierten $45.87 en FIGHT
+03:06:28 INFO    COMPRA FIGHT por 0.4109 SOL (score 0.55) https://dexscreener.com/solana/bow9h5gbqdnr55fke3vhdzngplanzmyky1eiqmx1drlz
+03:06:28 INFO    Posiciones: 4 | PnL hoy: +0.0000 SOL | PnL total: +0.0000 SOL | saldo simulado: 0.5685 SOL
+03:06:28 INFO    Bot detenido. Posiciones abiertas: 4
+03:06:28 USD      Capital: $307.97 (empezo con $300, +2.7%) | efectivo $63.51 | en posiciones $244.46 | 4 abiertas | SOL=$111.71
