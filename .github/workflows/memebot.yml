@@ -50,7 +50,7 @@ jobs:
           python - <<'PY'
           import json, os, urllib.request
           url = "https://api.dexscreener.com/tokens/v1/solana/So11111111111111111111111111111111111111112"
-          pairs = json.load(urllib.request.urlopen(url, timeout=20))
+          pairs = json.load(urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "memebot/1.0"}), timeout=20))
           usd = [p for p in pairs if (p.get("quoteToken") or {}).get("symbol") in ("USDC", "USDT") and p.get("priceUsd")]
           best = max(usd, key=lambda p: (p.get("liquidity") or {}).get("usd") or 0)
           px = float(best["priceUsd"])
