@@ -1,3 +1,4 @@
 time,mode,action,token,symbol,sol,token_raw,pnl_sol,pnl_pct,reason,signature,score,liquidity_usd,mcap_usd,age_min,change_h1,buy_sell_ratio,roundtrip_loss_pct,held_min
 2026-10-12T01:56:05+00:00,paper,BUY,AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump,GOMODOGE,0.390834,167645325291,,,,paper,0.5316,44269,260348,79.1,21.92,2.4,2.72,
 2026-10-12T02:06:01+00:00,paper,BUY,8PGyHCKvSUjezHkV7KLwMacnmSJLe1YbRM1zvDVApump,SEAN,0.435215,28142599616,,,,paper,0.5602,118840,1656085,88.9,43.09,1.75,2.08,
+2026-10-12T02:42:47+00:00,paper,BUY,7KKUmUG4p8kta1sBbMHnRUNoBfXX4zYbUFHspdHwpump,DOGELON,0.894035,399184189632,,,,paper,0.8938,43997,250513,41.8,73.14,2.77,2.64,

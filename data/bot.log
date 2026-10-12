@@ -35,3 +35,22 @@
 02:06:40 INFO    Posiciones: 2 | PnL hoy: +0.0000 SOL | PnL total: +0.0000 SOL | saldo simulado: 1.8735 SOL
 02:06:40 INFO    Bot detenido. Posiciones abiertas: 2
 02:06:40 USD      Capital: $301.32 (empezo con $300, +0.4%) | efectivo $208.84 | en posiciones $92.48 | 2 abiertas | SOL=$111.47
+02:42:38 INFO    Modo: SIMULACIÓN | tamaño 0.268 SOL | máx 8 posiciones | pérdida diaria máx 0.536 SOL
+02:42:38 INFO      GOMODOGE   valor 0.4177 SOL  pnl   +6.9%  máx   +7.4%   47m
+02:42:40 INFO      SEAN       valor 0.3769 SOL  pnl  -13.4%  máx   +0.1%   37m
+02:42:43 INFO    Escaneados 57 tokens, 1 pasan filtros de momentum.
+02:42:45 INFO    Potencial 0.89 -> se invierten $100.00 en DOGELON
+02:42:47 INFO    COMPRA DOGELON por 0.8940 SOL (score 0.89) https://dexscreener.com/solana/9axwun5spyffzsenycwg7srjjosfpbdxxbxrdzvvtr2c
+02:42:47 INFO    Posiciones: 3 | PnL hoy: +0.0000 SOL | PnL total: +0.0000 SOL | saldo simulado: 0.9795 SOL
+02:42:59 INFO      GOMODOGE   valor 0.4185 SOL  pnl   +7.1%  máx   +7.4%   47m
+02:43:00 INFO      SEAN       valor 0.3695 SOL  pnl  -15.1%  máx   +0.1%   37m
+02:43:01 INFO      DOGELON    valor 0.8314 SOL  pnl   -7.0%  máx   +0.0%    0m
+02:43:05 INFO    Escaneados 56 tokens, 0 pasan filtros de momentum.
+02:43:05 INFO    Posiciones: 3 | PnL hoy: +0.0000 SOL | PnL total: +0.0000 SOL | saldo simulado: 0.9795 SOL
+02:43:19 INFO      GOMODOGE   valor 0.4328 SOL  pnl  +10.7%  máx  +10.7%   47m
+02:43:20 INFO      SEAN       valor 0.3905 SOL  pnl  -10.3%  máx   +0.1%   37m
+02:43:21 INFO      DOGELON    valor 0.8911 SOL  pnl   -0.3%  máx   +0.0%    1m
+02:43:25 INFO    Escaneados 56 tokens, 0 pasan filtros de momentum.
+02:43:25 INFO    Posiciones: 3 | PnL hoy: +0.0000 SOL | PnL total: +0.0000 SOL | saldo simulado: 0.9795 SOL
+02:43:25 INFO    Bot detenido. Posiciones abiertas: 3
+02:43:25 USD      Capital: $301.42 (empezo con $300, +0.5%) | efectivo $109.59 | en posiciones $191.83 | 3 abiertas | SOL=$111.89
