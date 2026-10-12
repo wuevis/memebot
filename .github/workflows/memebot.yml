@@ -1,0 +1,94 @@
+name: memebot
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: memebot
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    env:
+      CAPITAL_USD: "300"
+      POSICION_USD: "30"
+      PERDIDA_DIARIA_USD: "60"
+      RESERVA_USD: "3"
+      MIN_TRADE_USD: "20"
+      MAX_TRADE_USD: "100"
+      MAX_OPEN_POSITIONS: "8"
+      MAX_DEEP_CHECKS: "10"
+      MIN_SCORE: "0.40"
+      MIN_LIQUIDITY_USD: "15000"
+      MIN_VOLUME_H1_USD: "15000"
+      MIN_BUYS_H1: "40"
+      MIN_AGE_MINUTES: "10"
+      COOLDOWN_MINUTES: "720"
+    steps:
+      - uses: actions/checkout@v4
+      - name: Instalar bot (solo la primera vez)
+        run: |
+          if [ -f bundle.zip ]; then
+            unzip -o -q bundle.zip && rm bundle.zip
+            git config user.name "memebot"
+            git config user.email "memebot@users.noreply.github.com"
+            git add -A && git commit -m "Instalar bot" && git push
+          fi
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Precio real de SOL y montos en dolares
+        run: |
+          mkdir -p data
+          if [ ! -f data/.modo_usd ]; then
+            rm -f data/state_paper.json data/trades_paper.csv data/candidates_paper.jsonl
+            echo "$CAPITAL_USD" > data/.modo_usd
+          fi
+          python - <<'PY'
+          import json, os, urllib.request
+          url = "https://api.dexscreener.com/tokens/v1/solana/So11111111111111111111111111111111111111112"
+          pairs = json.load(urllib.request.urlopen(url, timeout=20))
+          usd = [p for p in pairs if (p.get("quoteToken") or {}).get("symbol") in ("USDC", "USDT") and p.get("priceUsd")]
+          best = max(usd, key=lambda p: (p.get("liquidity") or {}).get("usd") or 0)
+          px = float(best["priceUsd"])
+          e = lambda k: float(os.environ[k]) / px
+          with open(os.environ["GITHUB_ENV"], "a") as f:
+              f.write(f"SOL_USD={px}\n")
+              f.write(f"PAPER_START_SOL={e('CAPITAL_USD'):.6f}\n")
+              f.write(f"POSITION_SIZE_SOL={e('POSICION_USD'):.6f}\n")
+              f.write(f"MAX_DAILY_LOSS_SOL={e('PERDIDA_DIARIA_USD'):.6f}\n")
+              f.write(f"MIN_SOL_RESERVE={e('RESERVA_USD'):.6f}\n")
+          print(f"SOL = ${px:.2f}")
+          PY
+      - name: Correr bot (simulacion)
+        env:
+          DRY_RUN: "true"
+          SCAN_INTERVAL_SEC: "20"
+        run: |
+          [ -f .env ] || cp .env.example .env
+          python -m memebot.run_usd --duration 50
+          python -m memebot.analyze > /dev/null || true
+      - name: Resumen en dolares
+        run: |
+          python - <<'PY' | tee -a data/bot.log
+          import json, os, time
+          px = float(os.environ["SOL_USD"]); cap = float(os.environ["CAPITAL_USD"])
+          s = json.load(open("data/state_paper.json"))
+          abiertas = sum(p.get("last_value_sol", 0) for p in s["positions"].values())
+          total = (s["paper_sol"] + abiertas) * px
+          print(time.strftime("%H:%M:%S"), "USD     ",
+                f"Capital: ${total:,.2f} (empezo con ${cap:,.0f}, {total / cap * 100 - 100:+.1f}%)",
+                f"| efectivo ${s['paper_sol'] * px:,.2f} | en posiciones ${abiertas * px:,.2f}",
+                f"| {len(s['positions'])} abiertas | SOL=${px:.2f}")
+          PY
+      - name: Guardar resultados
+        run: |
+          git config user.name "memebot"
+          git config user.email "memebot@users.noreply.github.com"
+          if [ -f data/bot.log ]; then tail -n 4000 data/bot.log > data/bot.tmp && mv data/bot.tmp data/bot.log; fi
+          git add -f data/
+          git commit -m "Resultados $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
+          git pull --rebase && git push
