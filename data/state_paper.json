@@ -1,12 +1,12 @@
 {
-  "paper_sol": 0.5761530890836589,
+  "paper_sol": 0.8987663200836589,
   "positions": {
     "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump": {
       "token": "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump",
       "symbol": "GOMODOGE",
       "opened_at": 1791770165.5742824,
-      "cost_sol": 0.39083360928642136,
-      "raw_amount": 167645325291,
+      "cost_sol": 0.19541680464437633,
+      "raw_amount": 83822662646,
       "entry_liq_usd": 44269.23,
       "features": {
         "token": "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump",
@@ -29,9 +29,9 @@
         "roundtrip_loss_pct": 2.72,
         "size_usd": 43.4
       },
-      "peak_pnl_pct": 54.3894426330658,
-      "tp_done": false,
-      "last_value_sol": 0.59720941
+      "peak_pnl_pct": 66.23162454792923,
+      "tp_done": true,
+      "last_value_sol": 0.321159895
     },
     "8PGyHCKvSUjezHkV7KLwMacnmSJLe1YbRM1zvDVApump": {
       "token": "8PGyHCKvSUjezHkV7KLwMacnmSJLe1YbRM1zvDVApump",
@@ -61,9 +61,9 @@
         "roundtrip_loss_pct": 2.08,
         "size_usd": 48.48
       },
-      "peak_pnl_pct": 12.480315990634438,
+      "peak_pnl_pct": 28.48119858560434,
       "tp_done": false,
-      "last_value_sol": 0.489531459
+      "last_value_sol": 0.553772083
     },
     "A8JUiZLzjGAsKxE74evdspHcuW4hvhPbvryDhaDZpump": {
       "token": "A8JUiZLzjGAsKxE74evdspHcuW4hvhPbvryDhaDZpump",
@@ -93,14 +93,14 @@
         "roundtrip_loss_pct": 2.88,
         "size_usd": 45.87
       },
-      "peak_pnl_pct": 20.449066189095365,
+      "peak_pnl_pct": 24.299862491504708,
       "tp_done": false,
-      "last_value_sol": 0.49490812
+      "last_value_sol": 0.510768987
     }
   },
   "day": "2026-10-12",
-  "day_realized_sol": -0.886422302223255,
-  "total_realized_sol": -0.886422302223255,
+  "day_realized_sol": -0.7592258758653001,
+  "total_realized_sol": -0.7592258758653001,
   "cooldown_until": {
     "7KKUmUG4p8kta1sBbMHnRUNoBfXX4zYbUFHspdHwpump": 1791819941.745758
   }
