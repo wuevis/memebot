@@ -1,6 +1,39 @@
 {
-  "paper_sol": 1.0,
-  "positions": {},
+  "paper_sol": 2.3087073907135784,
+  "positions": {
+    "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump": {
+      "token": "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump",
+      "symbol": "GOMODOGE",
+      "opened_at": 1791770165.5742824,
+      "cost_sol": 0.39083360928642136,
+      "raw_amount": 167645325291,
+      "entry_liq_usd": 44269.23,
+      "features": {
+        "token": "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump",
+        "symbol": "GOMODOGE",
+        "score": 0.5316,
+        "price_usd": 0.0002628,
+        "liquidity_usd": 44269,
+        "mcap_usd": 260348,
+        "age_min": 79.1,
+        "volume_h1": 237782,
+        "buys_h1": 1777,
+        "sells_h1": 739,
+        "buy_sell_ratio": 2.4,
+        "change_m5": 0.79,
+        "change_h1": 21.92,
+        "change_h6": 21.48,
+        "dex": "pumpswap",
+        "rugcheck_score": 1,
+        "lp_locked_pct": 100,
+        "roundtrip_loss_pct": 2.72,
+        "size_usd": 43.4
+      },
+      "peak_pnl_pct": 0.0,
+      "tp_done": false,
+      "last_value_sol": 0.38199721
+    }
+  },
   "day": "2026-10-12",
   "day_realized_sol": 0.0,
   "total_realized_sol": 0.0,
