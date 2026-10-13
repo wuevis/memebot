@@ -849,3 +849,12 @@
 19:19:57 INFO    Posiciones: 0 | PnL hoy: -0.7160 SOL | PnL total: -1.4017 SOL | saldo simulado: 1.2979 SOL
 19:19:57 INFO    Bot detenido. Posiciones abiertas: 0
 19:19:57 USD      Capital: $139.83 (empezo con $300, -53.4%) | efectivo $139.83 | en posiciones $0.00 | 0 abiertas | SOL=$107.74
+19:54:20 INFO    Modo: SIMULACIÓN | tamaño 0.279 SOL | máx 8 posiciones | pérdida diaria máx 0.559 SOL
+19:54:20 WARNING Límite de pérdida diaria alcanzado: no se abren posiciones hoy.
+19:54:20 INFO    Posiciones: 0 | PnL hoy: -0.7160 SOL | PnL total: -1.4017 SOL | saldo simulado: 1.2979 SOL
+19:54:40 WARNING Límite de pérdida diaria alcanzado: no se abren posiciones hoy.
+19:54:40 INFO    Posiciones: 0 | PnL hoy: -0.7160 SOL | PnL total: -1.4017 SOL | saldo simulado: 1.2979 SOL
+19:55:00 WARNING Límite de pérdida diaria alcanzado: no se abren posiciones hoy.
+19:55:00 INFO    Posiciones: 0 | PnL hoy: -0.7160 SOL | PnL total: -1.4017 SOL | saldo simulado: 1.2979 SOL
+19:55:00 INFO    Bot detenido. Posiciones abiertas: 0
+19:55:00 USD      Capital: $139.40 (empezo con $300, -53.5%) | efectivo $139.40 | en posiciones $0.00 | 0 abiertas | SOL=$107.41
