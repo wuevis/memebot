@@ -492,3 +492,16 @@
 23:40:08 INFO    Posiciones: 0 | PnL hoy: -0.6857 SOL | PnL total: -0.6857 SOL | saldo simulado: 2.0138 SOL
 23:40:08 INFO    Bot detenido. Posiciones abiertas: 0
 23:40:08 USD      Capital: $212.26 (empezo con $300, -29.2%) | efectivo $212.26 | en posiciones $0.00 | 0 abiertas | SOL=$105.40
+00:07:10 INFO    Modo: SIMULACIÓN | tamaño 0.285 SOL | máx 8 posiciones | pérdida diaria máx 0.570 SOL
+00:07:14 INFO    Escaneados 62 tokens, 1 pasan filtros de momentum.
+00:07:16 INFO    Potencial 0.72 -> se invierten $77.42 en FEED
+00:07:18 INFO    COMPRA FEED por 0.7359 SOL (score 0.72) https://dexscreener.com/solana/6cnxe1vhuzsmcdhzu9awtyjq2rzerkyfzkwxr1qdwbmr
+00:07:18 INFO    Posiciones: 1 | PnL hoy: +0.0000 SOL | PnL total: -0.6857 SOL | saldo simulado: 1.2779 SOL
+00:07:31 INFO      FEED       valor 0.7074 SOL  pnl   -3.9%  máx   +0.0%    0m
+00:07:35 INFO    Escaneados 61 tokens, 0 pasan filtros de momentum.
+00:07:35 INFO    Posiciones: 1 | PnL hoy: +0.0000 SOL | PnL total: -0.6857 SOL | saldo simulado: 1.2779 SOL
+00:07:51 INFO      FEED       valor 0.7121 SOL  pnl   -3.2%  máx   +0.0%    1m
+00:07:55 INFO    Escaneados 61 tokens, 0 pasan filtros de momentum.
+00:07:55 INFO    Posiciones: 1 | PnL hoy: +0.0000 SOL | PnL total: -0.6857 SOL | saldo simulado: 1.2779 SOL
+00:07:55 INFO    Bot detenido. Posiciones abiertas: 1
+00:07:55 USD      Capital: $209.46 (empezo con $300, -30.2%) | efectivo $134.50 | en posiciones $74.95 | 1 abiertas | SOL=$105.25
