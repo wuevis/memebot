@@ -1,46 +1,14 @@
 {
-  "paper_sol": 1.2779484413401907,
-  "positions": {
-    "8Tq4hpxkc4Syv9p2dWb7yqn4idciSJhpZQMFNnE6pump": {
-      "token": "8Tq4hpxkc4Syv9p2dWb7yqn4idciSJhpZQMFNnE6pump",
-      "symbol": "FEED",
-      "opened_at": 1791850038.107098,
-      "cost_sol": 0.7358819477434679,
-      "raw_amount": 749814696805,
-      "entry_liq_usd": 27979.63,
-      "features": {
-        "token": "8Tq4hpxkc4Syv9p2dWb7yqn4idciSJhpZQMFNnE6pump",
-        "symbol": "FEED",
-        "score": 0.723,
-        "price_usd": 0.0001034,
-        "liquidity_usd": 27980,
-        "mcap_usd": 98686,
-        "age_min": 112.1,
-        "volume_h1": 459641,
-        "buys_h1": 15680,
-        "sells_h1": 7894,
-        "buy_sell_ratio": 1.99,
-        "change_m5": 16.34,
-        "change_h1": 20.34,
-        "change_h6": 133.0,
-        "dex": "pumpswap",
-        "rugcheck_score": 1,
-        "lp_locked_pct": 0,
-        "roundtrip_loss_pct": 2.95,
-        "size_usd": 77.42
-      },
-      "peak_pnl_pct": 0.0,
-      "tp_done": false,
-      "last_value_sol": 0.712140506
-    }
-  },
+  "paper_sol": 1.2978655923401907,
+  "positions": {},
   "day": "2026-10-13",
-  "day_realized_sol": 0.0,
-  "total_realized_sol": -0.6857106109163411,
+  "day_realized_sol": -0.7159647967434679,
+  "total_realized_sol": -1.401675407659809,
   "cooldown_until": {
     "7KKUmUG4p8kta1sBbMHnRUNoBfXX4zYbUFHspdHwpump": 1791819941.745758,
     "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump": 1791824840.547816,
     "8PGyHCKvSUjezHkV7KLwMacnmSJLe1YbRM1zvDVApump": 1791826943.0474138,
-    "A8JUiZLzjGAsKxE74evdspHcuW4hvhPbvryDhaDZpump": 1791839275.1946084
+    "A8JUiZLzjGAsKxE74evdspHcuW4hvhPbvryDhaDZpump": 1791839275.1946084,
+    "8Tq4hpxkc4Syv9p2dWb7yqn4idciSJhpZQMFNnE6pump": 1791896036.4259896
   }
 }
