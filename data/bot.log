@@ -1176,3 +1176,18 @@
 10:58:37 INFO    Posiciones: 2 | PnL hoy: -0.1768 SOL | PnL total: -1.5785 SOL | saldo simulado: 0.1324 SOL
 10:58:37 INFO    Bot detenido. Posiciones abiertas: 2
 10:58:37 USD      Capital: $145.77 (empezo con $300, -51.4%) | efectivo $14.16 | en posiciones $131.62 | 2 abiertas | SOL=$106.95
+11:22:21 INFO    Modo: SIMULACIÓN | tamaño 0.280 SOL | máx 8 posiciones | pérdida diaria máx 0.560 SOL
+11:22:21 INFO      SAINDRA    valor 0.6630 SOL  pnl  +55.8%  máx  +57.5%  203m
+11:22:22 INFO      VEILDOGE   valor 0.7552 SOL  pnl  +34.1%  máx  +34.1%   56m
+11:22:22 INFO    Saldo insuficiente (0.1324 SOL).
+11:22:22 INFO    Posiciones: 2 | PnL hoy: -0.1768 SOL | PnL total: -1.5785 SOL | saldo simulado: 0.1324 SOL
+11:22:41 INFO      SAINDRA    valor 0.6502 SOL  pnl  +52.8%  máx  +57.5%  204m
+11:22:42 INFO      VEILDOGE   valor 0.7506 SOL  pnl  +33.3%  máx  +34.1%   56m
+11:22:42 INFO    Saldo insuficiente (0.1324 SOL).
+11:22:42 INFO    Posiciones: 2 | PnL hoy: -0.1768 SOL | PnL total: -1.5785 SOL | saldo simulado: 0.1324 SOL
+11:23:01 INFO      SAINDRA    valor 0.6183 SOL  pnl  +45.3%  máx  +57.5%  204m
+11:23:03 INFO      VEILDOGE   valor 0.7545 SOL  pnl  +34.0%  máx  +34.1%   57m
+11:23:03 INFO    Saldo insuficiente (0.1324 SOL).
+11:23:03 INFO    Posiciones: 2 | PnL hoy: -0.1768 SOL | PnL total: -1.5785 SOL | saldo simulado: 0.1324 SOL
+11:23:03 INFO    Bot detenido. Posiciones abiertas: 2
+11:23:03 USD      Capital: $161.13 (empezo con $300, -46.3%) | efectivo $14.17 | en posiciones $146.96 | 2 abiertas | SOL=$107.05

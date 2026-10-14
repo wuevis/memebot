@@ -31,7 +31,7 @@
       },
       "peak_pnl_pct": 57.46417046106147,
       "tp_done": false,
-      "last_value_sol": 0.663236587
+      "last_value_sol": 0.618285958
     },
     "E5SzGqbAaXQwwtkRYsrL4NrcvJfcSFjm8aSwyMhCpump": {
       "token": "E5SzGqbAaXQwwtkRYsrL4NrcvJfcSFjm8aSwyMhCpump",
@@ -61,9 +61,9 @@
         "roundtrip_loss_pct": 2.36,
         "size_usd": 60.02
       },
-      "peak_pnl_pct": 2.331187821455827,
+      "peak_pnl_pct": 34.088741088992045,
       "tp_done": false,
-      "last_value_sol": 0.567390008
+      "last_value_sol": 0.754503676
     }
   },
   "day": "2026-10-14",
