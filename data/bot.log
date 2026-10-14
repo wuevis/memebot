@@ -1072,3 +1072,23 @@
 07:59:42 INFO    Posiciones: 1 | PnL hoy: +0.7602 SOL | PnL total: -0.6415 SOL | saldo simulado: 1.6326 SOL
 07:59:42 INFO    Bot detenido. Posiciones abiertas: 1
 07:59:42 USD      Capital: $222.61 (empezo con $300, -25.8%) | efectivo $175.52 | en posiciones $47.09 | 1 abiertas | SOL=$107.51
+08:25:48 INFO    Modo: SIMULACIÓN | tamaño 0.279 SOL | máx 8 posiciones | pérdida diaria máx 0.557 SOL
+08:25:51 INFO      SAINDRA    valor 0.3869 SOL  pnl   -9.1%  máx   +2.9%   27m
+08:25:54 INFO    Escaneados 54 tokens, 2 pasan filtros de momentum.
+08:25:56 INFO    Potencial 0.60 -> se invierten $56.28 en PSI
+08:25:58 INFO    COMPRA PSI por 0.5229 SOL (score 0.60) https://dexscreener.com/solana/aumqkwnl6cpnjqh2frssgnsagkjux8szwsvav6papsvm
+08:26:00 INFO    Potencial 0.59 -> se invierten $53.74 en LURK
+08:26:01 INFO    COMPRA LURK por 0.4993 SOL (score 0.59) https://dexscreener.com/solana/alccfu6355h7px75kyhj9qgqphnzbfpgleuiukf2oh3b
+08:26:01 INFO    Posiciones: 3 | PnL hoy: +0.7602 SOL | PnL total: -0.6415 SOL | saldo simulado: 0.6104 SOL
+08:26:08 INFO      SAINDRA    valor 0.3583 SOL  pnl  -15.8%  máx   +2.9%   27m
+08:26:10 INFO      PSI        valor 0.5220 SOL  pnl   -0.2%  máx   +0.0%    0m
+08:26:11 INFO      LURK       valor 0.4632 SOL  pnl   -7.2%  máx   +0.0%    0m
+08:26:15 INFO    Escaneados 52 tokens, 0 pasan filtros de momentum.
+08:26:15 INFO    Posiciones: 3 | PnL hoy: +0.7602 SOL | PnL total: -0.6415 SOL | saldo simulado: 0.6104 SOL
+08:26:29 INFO      SAINDRA    valor 0.3643 SOL  pnl  -14.4%  máx   +2.9%   27m
+08:26:30 INFO      PSI        valor 0.5657 SOL  pnl   +8.2%  máx   +8.2%    1m
+08:26:31 INFO      LURK       valor 0.4709 SOL  pnl   -5.7%  máx   +0.0%    0m
+08:26:35 INFO    Escaneados 52 tokens, 0 pasan filtros de momentum.
+08:26:35 INFO    Posiciones: 3 | PnL hoy: +0.7602 SOL | PnL total: -0.6415 SOL | saldo simulado: 0.6104 SOL
+08:26:35 INFO    Bot detenido. Posiciones abiertas: 3
+08:26:35 USD      Capital: $216.63 (empezo con $300, -27.8%) | efectivo $65.74 | en posiciones $150.88 | 3 abiertas | SOL=$107.70
