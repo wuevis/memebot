@@ -1,47 +1,15 @@
 {
-  "paper_sol": 1.3694879570460623,
-  "positions": {
-    "63A9mFGpX4Mws6TznZm4287P4vTsTxQ5NvcJPsbXpump": {
-      "token": "63A9mFGpX4Mws6TznZm4287P4vTsTxQ5NvcJPsbXpump",
-      "symbol": "Eikon",
-      "opened_at": 1791953849.3918316,
-      "cost_sol": 0.22347839414763507,
-      "raw_amount": 195750322277,
-      "entry_liq_usd": 25470.49,
-      "features": {
-        "token": "63A9mFGpX4Mws6TznZm4287P4vTsTxQ5NvcJPsbXpump",
-        "symbol": "Eikon",
-        "score": 0.5588,
-        "price_usd": 9.107e-05,
-        "liquidity_usd": 25470,
-        "mcap_usd": 87456,
-        "age_min": 59.5,
-        "volume_h1": 587086,
-        "buys_h1": 6831,
-        "sells_h1": 5711,
-        "buy_sell_ratio": 1.2,
-        "change_m5": 18.74,
-        "change_h1": 106.0,
-        "change_h6": 106.0,
-        "dex": "pumpswap",
-        "rugcheck_score": 1,
-        "lp_locked_pct": 100,
-        "roundtrip_loss_pct": 2.94,
-        "size_usd": 48.23
-      },
-      "peak_pnl_pct": 369.66881563799143,
-      "tp_done": true,
-      "last_value_sol": 0.90429069
-    }
-  },
+  "paper_sol": 2.058053571046062,
+  "positions": {},
   "day": "2026-10-14",
-  "day_realized_sol": 0.2951007588535066,
-  "total_realized_sol": -1.1065746488063024,
+  "day_realized_sol": 0.7601879787058716,
+  "total_realized_sol": -0.6414874289539374,
   "cooldown_until": {
     "7KKUmUG4p8kta1sBbMHnRUNoBfXX4zYbUFHspdHwpump": 1791819941.745758,
     "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump": 1791824840.547816,
     "8PGyHCKvSUjezHkV7KLwMacnmSJLe1YbRM1zvDVApump": 1791826943.0474138,
     "A8JUiZLzjGAsKxE74evdspHcuW4hvhPbvryDhaDZpump": 1791839275.1946084,
-    "8Tq4hpxkc4Syv9p2dWb7yqn4idciSJhpZQMFNnE6pump": 1791896036.4259896
+    "8Tq4hpxkc4Syv9p2dWb7yqn4idciSJhpZQMFNnE6pump": 1791896036.4259896,
+    "63A9mFGpX4Mws6TznZm4287P4vTsTxQ5NvcJPsbXpump": 1792005022.6554265
   }
 }

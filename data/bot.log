@@ -1048,3 +1048,14 @@
 06:17:36 INFO    Posiciones: 1 | PnL hoy: +0.2951 SOL | PnL total: -1.1066 SOL | saldo simulado: 1.3695 SOL
 06:17:36 INFO    Bot detenido. Posiciones abiertas: 1
 06:17:36 USD      Capital: $244.16 (empezo con $300, -18.6%) | efectivo $147.06 | en posiciones $97.10 | 1 abiertas | SOL=$107.38
+07:10:21 INFO    Modo: SIMULACIÓN | tamaño 0.280 SOL | máx 8 posiciones | pérdida diaria máx 0.559 SOL
+07:10:21 INFO      Eikon      valor 0.6889 SOL  pnl +208.2%  máx +369.7%  133m
+07:10:22 INFO    VENTA Eikon 100% -> 0.6886 SOL (+0.4651 SOL) | trailing stop (máx 370%, ahora 208%)
+07:10:26 INFO    Escaneados 59 tokens, 0 pasan filtros de momentum.
+07:10:26 INFO    Posiciones: 0 | PnL hoy: +0.7602 SOL | PnL total: -0.6415 SOL | saldo simulado: 2.0581 SOL
+07:10:45 INFO    Escaneados 59 tokens, 0 pasan filtros de momentum.
+07:10:45 INFO    Posiciones: 0 | PnL hoy: +0.7602 SOL | PnL total: -0.6415 SOL | saldo simulado: 2.0581 SOL
+07:11:05 INFO    Escaneados 59 tokens, 1 pasan filtros de momentum.
+07:11:06 INFO    Posiciones: 0 | PnL hoy: +0.7602 SOL | PnL total: -0.6415 SOL | saldo simulado: 2.0581 SOL
+07:11:06 INFO    Bot detenido. Posiciones abiertas: 0
+07:11:06 USD      Capital: $220.85 (empezo con $300, -26.4%) | efectivo $220.85 | en posiciones $0.00 | 0 abiertas | SOL=$107.31
