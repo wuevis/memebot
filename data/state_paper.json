@@ -1,5 +1,5 @@
 {
-  "paper_sol": 0.13236703419686557,
+  "paper_sol": 0.7050704991968656,
   "positions": {
     "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T": {
       "token": "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T",
@@ -31,14 +31,14 @@
       },
       "peak_pnl_pct": 57.46417046106147,
       "tp_done": false,
-      "last_value_sol": 0.618285958
+      "last_value_sol": 0.589830425
     },
     "E5SzGqbAaXQwwtkRYsrL4NrcvJfcSFjm8aSwyMhCpump": {
       "token": "E5SzGqbAaXQwwtkRYsrL4NrcvJfcSFjm8aSwyMhCpump",
       "symbol": "VEILDOGE",
       "opened_at": 1791973589.283207,
-      "cost_sol": 0.5631809903404296,
-      "raw_amount": 115161430783,
+      "cost_sol": 0.28159049517266,
+      "raw_amount": 57580715392,
       "entry_liq_usd": 62238.28,
       "features": {
         "token": "E5SzGqbAaXQwwtkRYsrL4NrcvJfcSFjm8aSwyMhCpump",
@@ -61,14 +61,14 @@
         "roundtrip_loss_pct": 2.36,
         "size_usd": 60.02
       },
-      "peak_pnl_pct": 34.088741088992045,
-      "tp_done": false,
-      "last_value_sol": 0.754503676
+      "peak_pnl_pct": 103.39030536304135,
+      "tp_done": true,
+      "last_value_sol": 0.572032813
     }
   },
   "day": "2026-10-14",
-  "day_realized_sol": -0.17684781615188616,
-  "total_realized_sol": -1.5785232238116953,
+  "day_realized_sol": 0.11426515368034429,
+  "total_realized_sol": -1.287410253979465,
   "cooldown_until": {
     "7KKUmUG4p8kta1sBbMHnRUNoBfXX4zYbUFHspdHwpump": 1791819941.745758,
     "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump": 1791824840.547816,
