@@ -1,42 +1,42 @@
 {
-  "paper_sol": 0.5685562200000001,
+  "paper_sol": 0.45419136105518565,
   "positions": {
-    "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T": {
-      "token": "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T",
-      "symbol": "SAINDRA",
-      "opened_at": 1791964744.5391452,
-      "cost_sol": 0.2127348758260721,
-      "raw_amount": 187433639272,
-      "entry_liq_usd": 30864.11,
+    "5ZxkhR5QzsBYRCEg7WS15559qxCyLSBmD5LBBHAypump": {
+      "token": "5ZxkhR5QzsBYRCEg7WS15559qxCyLSBmD5LBBHAypump",
+      "symbol": "Polarpine",
+      "opened_at": 1791986313.518382,
+      "cost_sol": 0.5094341579448144,
+      "raw_amount": 541188365973,
+      "entry_liq_usd": 25686.65,
       "features": {
-        "token": "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T",
-        "symbol": "SAINDRA",
-        "score": 0.5446,
-        "price_usd": 0.0001239,
-        "liquidity_usd": 30864,
-        "mcap_usd": 122040,
-        "age_min": 112.5,
-        "volume_h1": 211836,
-        "buys_h1": 2297,
-        "sells_h1": 1807,
-        "buy_sell_ratio": 1.27,
-        "change_m5": 25.73,
-        "change_h1": 37.74,
-        "change_h6": 172.0,
+        "token": "5ZxkhR5QzsBYRCEg7WS15559qxCyLSBmD5LBBHAypump",
+        "symbol": "Polarpine",
+        "score": 0.5885,
+        "price_usd": 9.351e-05,
+        "liquidity_usd": 25687,
+        "mcap_usd": 90124,
+        "age_min": 55.5,
+        "volume_h1": 611030,
+        "buys_h1": 9770,
+        "sells_h1": 6623,
+        "buy_sell_ratio": 1.48,
+        "change_m5": 7.3,
+        "change_h1": 118.0,
+        "change_h6": 118.0,
         "dex": "pumpswap",
         "rugcheck_score": 1,
-        "lp_locked_pct": 98.68122383629509,
-        "roundtrip_loss_pct": 2.92,
-        "size_usd": 45.71
+        "lp_locked_pct": 99.8321179545876,
+        "roundtrip_loss_pct": -0.02,
+        "size_usd": 53.51
       },
-      "peak_pnl_pct": 127.41883159559828,
-      "tp_done": true,
-      "last_value_sol": 0.44151917
+      "peak_pnl_pct": 4.057875729924065,
+      "tp_done": false,
+      "last_value_sol": 0.530106363
     }
   },
   "day": "2026-10-14",
-  "day_realized_sol": -0.5165744965141185,
-  "total_realized_sol": -1.9182499041739278,
+  "day_realized_sol": -0.33424007334019057,
+  "total_realized_sol": -1.735915481,
   "cooldown_until": {
     "7KKUmUG4p8kta1sBbMHnRUNoBfXX4zYbUFHspdHwpump": 1791819941.745758,
     "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump": 1791824840.547816,
@@ -49,6 +49,7 @@
     "5F3tCmoRksMeRwsBma93jJYRuPo7aQ5bmahdqfaProad": 1792016782.4586287,
     "E5SzGqbAaXQwwtkRYsrL4NrcvJfcSFjm8aSwyMhCpump": 1792026437.5720775,
     "8rUdZKL3TNrZTBGqD13QqDoJPhU4AdbGTFLNbQeJpump": 1792026440.0264993,
-    "89SbHFg9k4fCmFEYhgwsxWdgopQPyPMHqzUKK16spump": 1792026474.8404455
+    "89SbHFg9k4fCmFEYhgwsxWdgopQPyPMHqzUKK16spump": 1792026474.8404455,
+    "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T": 1792029547.7116597
   }
 }
