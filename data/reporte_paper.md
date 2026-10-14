@@ -1,57 +1,58 @@
 # Reporte del bot
 
-- Operaciones cerradas: **9**
+- Operaciones cerradas: **12**
 - Win rate: **33%**
-- PnL total: **-1.5785 SOL**
-- Ganancia media: +0.3605 SOL
-- Pérdida media: -0.4433 SOL
-- Profit factor: 0.41
-- Tiempo medio en posición: 129 min
+- PnL total: **-2.1804 SOL**
+- Ganancia media: +0.2730 SOL
+- Pérdida media: -0.4090 SOL
+- Profit factor: 0.33
+- Tiempo medio en posición: 114 min
 
 ### Por motivo de salida
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
-| liquidez | 2 | 0% | -1.6024 | -98.2% |
-| stop | 4 | 0% | -1.0576 | -45.8% |
+| liquidez | 4 | 25% | -1.9271 | -69.7% |
+| stop | 5 | 0% | -1.3348 | -43.5% |
 | tiempo | 1 | 100% | +0.1881 | +45.8% |
 | trailing | 2 | 100% | +0.8934 | +102.1% |
 
 ### Por score de momentum
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
-| 0.5–0.6 | 5 | 60% | +0.6079 | +30.3% |
-| 0.6–0.7 | 1 | 0% | -0.2250 | -43.0% |
-| 0.7–0.8 | 1 | 0% | -0.7160 | -97.3% |
+| 0.5–0.6 | 6 | 50% | +0.2728 | +11.2% |
+| 0.6–0.7 | 2 | 50% | -0.2146 | -20.6% |
+| 0.7–0.8 | 2 | 0% | -0.9932 | -65.6% |
 | 0.8–0.9 | 2 | 0% | -1.2455 | -70.6% |
 
 ### Por edad del token
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
-| 0h–1h | 4 | 25% | -0.7103 | -3.5% |
-| 1h–3h | 5 | 40% | -0.8682 | -23.2% |
+| 0h–1h | 5 | 20% | -0.9875 | -9.6% |
+| 1h–3h | 7 | 43% | -1.1929 | -28.3% |
 
 ### Por liquidez (USD)
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
-| 0–25,000 | 3 | 0% | -0.9370 | -51.9% |
+| 0–25,000 | 5 | 0% | -1.5493 | -54.7% |
 | 100,000–250,000 | 1 | 0% | -0.1206 | -27.7% |
 | 25,000–50,000 | 5 | 60% | -0.5209 | +10.7% |
+| 50,000–100,000 | 1 | 100% | +0.0104 | +1.8% |
 
 ### Por subida en 1h al entrar
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
-| 100%–150% | 1 | 100% | +0.7602 | +170.1% |
+| 100%–150% | 2 | 100% | +0.7706 | +86.0% |
 | 15%–30% | 2 | 50% | -0.5828 | -31.6% |
 | 30%–60% | 1 | 0% | -0.1206 | -27.7% |
-| 60%–100% | 5 | 20% | -1.6353 | -41.8% |
+| 60%–100% | 7 | 14% | -2.2476 | -46.7% |
 
 ### Por ratio compras/ventas
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
 | 1.0–1.3 | 1 | 100% | +0.7602 | +170.1% |
-| 1.3–1.6 | 3 | 0% | -0.9370 | -51.9% |
+| 1.3–1.6 | 5 | 0% | -1.5493 | -54.7% |
 | 1.6–2.0 | 3 | 33% | -0.6484 | -26.4% |
-| 2.0–3.0 | 2 | 50% | -0.7533 | -32.5% |
+| 2.0–3.0 | 3 | 67% | -0.7429 | -21.1% |
 
 ### Mejores y peores
 | token | PnL SOL | salida |
@@ -59,9 +60,9 @@
 | Eikon | +0.7602 | trailing stop (máx 370%, ahora 208%) |
 | FIGHT | +0.1881 | tiempo máximo (361m) |
 | GOMODOGE | +0.1332 | trailing stop (máx 66%, ahora 3%) |
+| VEILDOGE | +0.0104 | liquidez cayó 96% |
 | SEAN | -0.1206 | stop loss -27.6% |
-| PSI | -0.2250 | stop loss -41.9% |
-| PSI | -0.2250 | stop loss -41.9% |
+| TW | -0.3351 | liquidez cayó 65% |
 | LURK | -0.3530 | stop loss -70.6% |
 | ROAD | -0.3591 | stop loss -41.9% |
 | FEED | -0.7160 | liquidez cayó 89% |
@@ -75,11 +76,11 @@
   "rpc_url": "https://api.mainnet-beta.solana.com",
   "data_dir": "data",
   "scan_interval_sec": 20,
-  "paper_start_sol": 2.795639,
-  "position_size_sol": 0.279564,
+  "paper_start_sol": 2.848191,
+  "position_size_sol": 0.284819,
   "max_open_positions": 8,
-  "max_daily_loss_sol": 0.559128,
-  "min_sol_reserve": 0.027956,
+  "max_daily_loss_sol": 0.569638,
+  "min_sol_reserve": 0.028482,
   "cooldown_minutes": 720,
   "min_age_minutes": 10,
   "max_age_hours": 48,

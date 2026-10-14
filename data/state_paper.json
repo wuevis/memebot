@@ -1,5 +1,5 @@
 {
-  "paper_sol": 0.7815918195832229,
+  "paper_sol": 0.5685562200000001,
   "positions": {
     "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T": {
       "token": "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T",
@@ -31,76 +31,12 @@
       },
       "peak_pnl_pct": 127.41883159559828,
       "tp_done": true,
-      "last_value_sol": 0.477526954
-    },
-    "E5SzGqbAaXQwwtkRYsrL4NrcvJfcSFjm8aSwyMhCpump": {
-      "token": "E5SzGqbAaXQwwtkRYsrL4NrcvJfcSFjm8aSwyMhCpump",
-      "symbol": "VEILDOGE",
-      "opened_at": 1791973589.283207,
-      "cost_sol": 0.28159049517266,
-      "raw_amount": 57580715392,
-      "entry_liq_usd": 62238.28,
-      "features": {
-        "token": "E5SzGqbAaXQwwtkRYsrL4NrcvJfcSFjm8aSwyMhCpump",
-        "symbol": "VEILDOGE",
-        "score": 0.6251,
-        "price_usd": 0.0005199,
-        "liquidity_usd": 62238,
-        "mcap_usd": 511012,
-        "age_min": 165.3,
-        "volume_h1": 107645,
-        "buys_h1": 1977,
-        "sells_h1": 971,
-        "buy_sell_ratio": 2.04,
-        "change_m5": 4.43,
-        "change_h1": 102.0,
-        "change_h6": 981.0,
-        "dex": "pumpswap",
-        "rugcheck_score": 1,
-        "lp_locked_pct": 100,
-        "roundtrip_loss_pct": 2.36,
-        "size_usd": 60.02
-      },
-      "peak_pnl_pct": 164.03105280386825,
-      "tp_done": true,
-      "last_value_sol": 0.743486349
-    },
-    "8rUdZKL3TNrZTBGqD13QqDoJPhU4AdbGTFLNbQeJpump": {
-      "token": "8rUdZKL3TNrZTBGqD13QqDoJPhU4AdbGTFLNbQeJpump",
-      "symbol": "TW",
-      "opened_at": 1791980510.4096072,
-      "cost_sol": 0.39839896561364274,
-      "raw_amount": 506383189523,
-      "entry_liq_usd": 23949.57,
-      "features": {
-        "token": "8rUdZKL3TNrZTBGqD13QqDoJPhU4AdbGTFLNbQeJpump",
-        "symbol": "TW",
-        "score": 0.5278,
-        "price_usd": 8.422e-05,
-        "liquidity_usd": 23950,
-        "mcap_usd": 81288,
-        "age_min": 80.7,
-        "volume_h1": 174659,
-        "buys_h1": 2378,
-        "sells_h1": 1670,
-        "buy_sell_ratio": 1.42,
-        "change_m5": 5.03,
-        "change_h1": 98.11,
-        "change_h6": 54.9,
-        "dex": "pumpswap",
-        "rugcheck_score": 1,
-        "lp_locked_pct": 0,
-        "roundtrip_loss_pct": 3.32,
-        "size_usd": 42.72
-      },
-      "peak_pnl_pct": 0.15668398771964132,
-      "tp_done": false,
-      "last_value_sol": 0.399023193
+      "last_value_sol": 0.44151917
     }
   },
   "day": "2026-10-14",
-  "day_realized_sol": 0.37645056385540715,
-  "total_realized_sol": -1.025224843804402,
+  "day_realized_sol": -0.5165744965141185,
+  "total_realized_sol": -1.9182499041739278,
   "cooldown_until": {
     "7KKUmUG4p8kta1sBbMHnRUNoBfXX4zYbUFHspdHwpump": 1791819941.745758,
     "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump": 1791824840.547816,
@@ -110,6 +46,9 @@
     "63A9mFGpX4Mws6TznZm4287P4vTsTxQ5NvcJPsbXpump": 1792005022.6554265,
     "FZHk2fo51sWy3d5DPuCbFC4maD8SEPPjxup1dzBtpump": 1792011593.6704736,
     "ng6pDHNYmSW7Sf2rr6Z2yrAGexVQ4SMRXc1v9Khpump": 1792013263.6833096,
-    "5F3tCmoRksMeRwsBma93jJYRuPo7aQ5bmahdqfaProad": 1792016782.4586287
+    "5F3tCmoRksMeRwsBma93jJYRuPo7aQ5bmahdqfaProad": 1792016782.4586287,
+    "E5SzGqbAaXQwwtkRYsrL4NrcvJfcSFjm8aSwyMhCpump": 1792026437.5720775,
+    "8rUdZKL3TNrZTBGqD13QqDoJPhU4AdbGTFLNbQeJpump": 1792026440.0264993,
+    "89SbHFg9k4fCmFEYhgwsxWdgopQPyPMHqzUKK16spump": 1792026474.8404455
   }
 }

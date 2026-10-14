@@ -1227,3 +1227,24 @@
 12:22:26 INFO    Posiciones: 3 | PnL hoy: +0.3765 SOL | PnL total: -1.0252 SOL | saldo simulado: 0.7816 SOL
 12:22:26 INFO    Bot detenido. Posiciones abiertas: 3
 12:22:27 USD      Capital: $257.72 (empezo con $300, -14.1%) | efectivo $83.87 | en posiciones $173.85 | 3 abiertas | SOL=$107.31
+13:07:11 INFO    Modo: SIMULACIÓN | tamaño 0.285 SOL | máx 8 posiciones | pérdida diaria máx 0.570 SOL
+13:07:16 INFO      SAINDRA    valor 0.4433 SOL  pnl +108.4%  máx +127.4%  308m
+13:07:16 INFO      VEILDOGE   valor 0.0012 SOL  pnl  -99.6%  máx +164.0%  161m
+13:07:17 INFO    VENTA VEILDOGE 100% -> 0.0009 SOL (-0.2807 SOL) | liquidez cayó 96%
+13:07:18 INFO      TW         valor 0.0635 SOL  pnl  -84.1%  máx   +0.2%   45m
+13:07:20 INFO    VENTA TW 100% -> 0.0633 SOL (-0.3351 SOL) | liquidez cayó 65%
+13:07:23 INFO    Escaneados 39 tokens, 1 pasan filtros de momentum.
+13:07:25 INFO    Potencial 0.80 -> se invierten $86.08 en Musclecat
+13:07:27 INFO    COMPRA Musclecat por 0.8176 SOL (score 0.80) https://dexscreener.com/solana/6sc7fqtoqqsi6xviaoqbuzm8gotdbh9s9z7rc9wqk3xx
+13:07:27 INFO    Posiciones: 2 | PnL hoy: -0.2394 SOL | PnL total: -1.6411 SOL | saldo simulado: 0.0282 SOL
+13:07:32 INFO      SAINDRA    valor 0.4430 SOL  pnl +108.2%  máx +127.4%  308m
+13:07:33 INFO      Musclecat  valor 0.7608 SOL  pnl   -6.9%  máx   +0.0%    0m
+13:07:33 INFO    Saldo insuficiente (0.0282 SOL).
+13:07:33 INFO    Posiciones: 2 | PnL hoy: -0.2394 SOL | PnL total: -1.6411 SOL | saldo simulado: 0.0282 SOL
+13:07:52 INFO      SAINDRA    valor 0.4415 SOL  pnl +107.5%  máx +127.4%  309m
+13:07:53 INFO      Musclecat  valor 0.5424 SOL  pnl  -33.7%  máx   +0.0%    0m
+13:07:54 INFO    VENTA Musclecat 100% -> 0.5404 SOL (-0.2772 SOL) | stop loss -33.7%
+13:07:58 INFO    Escaneados 38 tokens, 0 pasan filtros de momentum.
+13:07:58 INFO    Posiciones: 1 | PnL hoy: -0.5166 SOL | PnL total: -1.9182 SOL | saldo simulado: 0.5686 SOL
+13:07:58 INFO    Bot detenido. Posiciones abiertas: 1
+13:07:58 USD      Capital: $106.39 (empezo con $300, -64.5%) | efectivo $59.89 | en posiciones $46.51 | 1 abiertas | SOL=$105.33
