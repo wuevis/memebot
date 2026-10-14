@@ -1127,3 +1127,18 @@
 09:28:22 INFO    Posiciones: 2 | PnL hoy: +0.1823 SOL | PnL total: -1.2194 SOL | saldo simulado: 0.1988 SOL
 09:28:22 INFO    Bot detenido. Posiciones abiertas: 2
 09:28:22 USD      Capital: $158.44 (empezo con $300, -47.2%) | efectivo $21.21 | en posiciones $137.23 | 2 abiertas | SOL=$106.70
+09:59:29 INFO    Modo: SIMULACIÓN | tamaño 0.281 SOL | máx 8 posiciones | pérdida diaria máx 0.563 SOL
+09:59:30 INFO      SAINDRA    valor 0.4752 SOL  pnl  +11.7%  máx  +28.9%  120m
+09:59:31 INFO      ROAD       valor 0.9512 SOL  pnl  +11.1%  máx  +11.1%   32m
+09:59:31 INFO    Saldo insuficiente (0.1988 SOL).
+09:59:31 INFO    Posiciones: 2 | PnL hoy: +0.1823 SOL | PnL total: -1.2194 SOL | saldo simulado: 0.1988 SOL
+09:59:50 INFO      SAINDRA    valor 0.4700 SOL  pnl  +10.5%  máx  +28.9%  121m
+09:59:51 INFO      ROAD       valor 0.8449 SOL  pnl   -1.3%  máx  +11.1%   32m
+09:59:51 INFO    Saldo insuficiente (0.1988 SOL).
+09:59:51 INFO    Posiciones: 2 | PnL hoy: +0.1823 SOL | PnL total: -1.2194 SOL | saldo simulado: 0.1988 SOL
+10:00:10 INFO      SAINDRA    valor 0.4429 SOL  pnl   +4.1%  máx  +28.9%  121m
+10:00:12 INFO      ROAD       valor 0.8785 SOL  pnl   +2.6%  máx  +11.1%   32m
+10:00:12 INFO    Saldo insuficiente (0.1988 SOL).
+10:00:12 INFO    Posiciones: 2 | PnL hoy: +0.1823 SOL | PnL total: -1.2194 SOL | saldo simulado: 0.1988 SOL
+10:00:12 INFO    Bot detenido. Posiciones abiertas: 2
+10:00:12 USD      Capital: $162.11 (empezo con $300, -46.0%) | efectivo $21.20 | en posiciones $140.91 | 2 abiertas | SOL=$106.64
