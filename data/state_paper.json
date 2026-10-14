@@ -1,12 +1,12 @@
 {
-  "paper_sol": 0.7050704991968656,
+  "paper_sol": 0.7815918195832229,
   "positions": {
     "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T": {
       "token": "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T",
       "symbol": "SAINDRA",
       "opened_at": 1791964744.5391452,
-      "cost_sol": 0.4254697516510092,
-      "raw_amount": 374867278543,
+      "cost_sol": 0.2127348758260721,
+      "raw_amount": 187433639272,
       "entry_liq_usd": 30864.11,
       "features": {
         "token": "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T",
@@ -29,9 +29,9 @@
         "roundtrip_loss_pct": 2.92,
         "size_usd": 45.71
       },
-      "peak_pnl_pct": 57.46417046106147,
-      "tp_done": false,
-      "last_value_sol": 0.589830425
+      "peak_pnl_pct": 127.41883159559828,
+      "tp_done": true,
+      "last_value_sol": 0.477526954
     },
     "E5SzGqbAaXQwwtkRYsrL4NrcvJfcSFjm8aSwyMhCpump": {
       "token": "E5SzGqbAaXQwwtkRYsrL4NrcvJfcSFjm8aSwyMhCpump",
@@ -61,14 +61,46 @@
         "roundtrip_loss_pct": 2.36,
         "size_usd": 60.02
       },
-      "peak_pnl_pct": 103.39030536304135,
+      "peak_pnl_pct": 164.03105280386825,
       "tp_done": true,
-      "last_value_sol": 0.572032813
+      "last_value_sol": 0.743486349
+    },
+    "8rUdZKL3TNrZTBGqD13QqDoJPhU4AdbGTFLNbQeJpump": {
+      "token": "8rUdZKL3TNrZTBGqD13QqDoJPhU4AdbGTFLNbQeJpump",
+      "symbol": "TW",
+      "opened_at": 1791980510.4096072,
+      "cost_sol": 0.39839896561364274,
+      "raw_amount": 506383189523,
+      "entry_liq_usd": 23949.57,
+      "features": {
+        "token": "8rUdZKL3TNrZTBGqD13QqDoJPhU4AdbGTFLNbQeJpump",
+        "symbol": "TW",
+        "score": 0.5278,
+        "price_usd": 8.422e-05,
+        "liquidity_usd": 23950,
+        "mcap_usd": 81288,
+        "age_min": 80.7,
+        "volume_h1": 174659,
+        "buys_h1": 2378,
+        "sells_h1": 1670,
+        "buy_sell_ratio": 1.42,
+        "change_m5": 5.03,
+        "change_h1": 98.11,
+        "change_h6": 54.9,
+        "dex": "pumpswap",
+        "rugcheck_score": 1,
+        "lp_locked_pct": 0,
+        "roundtrip_loss_pct": 3.32,
+        "size_usd": 42.72
+      },
+      "peak_pnl_pct": 0.15668398771964132,
+      "tp_done": false,
+      "last_value_sol": 0.399023193
     }
   },
   "day": "2026-10-14",
-  "day_realized_sol": 0.11426515368034429,
-  "total_realized_sol": -1.287410253979465,
+  "day_realized_sol": 0.37645056385540715,
+  "total_realized_sol": -1.025224843804402,
   "cooldown_until": {
     "7KKUmUG4p8kta1sBbMHnRUNoBfXX4zYbUFHspdHwpump": 1791819941.745758,
     "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump": 1791824840.547816,
