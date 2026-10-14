@@ -1059,3 +1059,16 @@
 07:11:06 INFO    Posiciones: 0 | PnL hoy: +0.7602 SOL | PnL total: -0.6415 SOL | saldo simulado: 2.0581 SOL
 07:11:06 INFO    Bot detenido. Posiciones abiertas: 0
 07:11:06 USD      Capital: $220.85 (empezo con $300, -26.4%) | efectivo $220.85 | en posiciones $0.00 | 0 abiertas | SOL=$107.31
+07:58:57 INFO    Modo: SIMULACIÓN | tamaño 0.279 SOL | máx 8 posiciones | pérdida diaria máx 0.558 SOL
+07:59:01 INFO    Escaneados 57 tokens, 1 pasan filtros de momentum.
+07:59:03 INFO    Potencial 0.54 -> se invierten $45.71 en SAINDRA
+07:59:04 INFO    COMPRA SAINDRA por 0.4255 SOL (score 0.54) https://dexscreener.com/solana/9hjkmterujufrayursteheyjzg83lq52behux54lsef6
+07:59:04 INFO    Posiciones: 1 | PnL hoy: +0.7602 SOL | PnL total: -0.6415 SOL | saldo simulado: 1.6326 SOL
+07:59:18 INFO      SAINDRA    valor 0.4231 SOL  pnl   -0.6%  máx   +0.0%    0m
+07:59:22 INFO    Escaneados 56 tokens, 0 pasan filtros de momentum.
+07:59:22 INFO    Posiciones: 1 | PnL hoy: +0.7602 SOL | PnL total: -0.6415 SOL | saldo simulado: 1.6326 SOL
+07:59:38 INFO      SAINDRA    valor 0.4380 SOL  pnl   +2.9%  máx   +2.9%    1m
+07:59:42 INFO    Escaneados 56 tokens, 0 pasan filtros de momentum.
+07:59:42 INFO    Posiciones: 1 | PnL hoy: +0.7602 SOL | PnL total: -0.6415 SOL | saldo simulado: 1.6326 SOL
+07:59:42 INFO    Bot detenido. Posiciones abiertas: 1
+07:59:42 USD      Capital: $222.61 (empezo con $300, -25.8%) | efectivo $175.52 | en posiciones $47.09 | 1 abiertas | SOL=$107.51
