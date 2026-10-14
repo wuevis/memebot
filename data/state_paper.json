@@ -1,42 +1,9 @@
 {
-  "paper_sol": 0.45419136105518565,
-  "positions": {
-    "5ZxkhR5QzsBYRCEg7WS15559qxCyLSBmD5LBBHAypump": {
-      "token": "5ZxkhR5QzsBYRCEg7WS15559qxCyLSBmD5LBBHAypump",
-      "symbol": "Polarpine",
-      "opened_at": 1791986313.518382,
-      "cost_sol": 0.5094341579448144,
-      "raw_amount": 541188365973,
-      "entry_liq_usd": 25686.65,
-      "features": {
-        "token": "5ZxkhR5QzsBYRCEg7WS15559qxCyLSBmD5LBBHAypump",
-        "symbol": "Polarpine",
-        "score": 0.5885,
-        "price_usd": 9.351e-05,
-        "liquidity_usd": 25687,
-        "mcap_usd": 90124,
-        "age_min": 55.5,
-        "volume_h1": 611030,
-        "buys_h1": 9770,
-        "sells_h1": 6623,
-        "buy_sell_ratio": 1.48,
-        "change_m5": 7.3,
-        "change_h1": 118.0,
-        "change_h6": 118.0,
-        "dex": "pumpswap",
-        "rugcheck_score": 1,
-        "lp_locked_pct": 99.8321179545876,
-        "roundtrip_loss_pct": -0.02,
-        "size_usd": 53.51
-      },
-      "peak_pnl_pct": 40.63651186845054,
-      "tp_done": false,
-      "last_value_sol": 0.704610947
-    }
-  },
+  "paper_sol": 0.5356024940551857,
+  "positions": {},
   "day": "2026-10-14",
-  "day_realized_sol": -0.33424007334019057,
-  "total_realized_sol": -1.735915481,
+  "day_realized_sol": -0.7622630982850049,
+  "total_realized_sol": -2.1639385059448144,
   "cooldown_until": {
     "7KKUmUG4p8kta1sBbMHnRUNoBfXX4zYbUFHspdHwpump": 1791819941.745758,
     "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump": 1791824840.547816,
@@ -50,6 +17,7 @@
     "E5SzGqbAaXQwwtkRYsrL4NrcvJfcSFjm8aSwyMhCpump": 1792026437.5720775,
     "8rUdZKL3TNrZTBGqD13QqDoJPhU4AdbGTFLNbQeJpump": 1792026440.0264993,
     "89SbHFg9k4fCmFEYhgwsxWdgopQPyPMHqzUKK16spump": 1792026474.8404455,
-    "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T": 1792029547.7116597
+    "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T": 1792029547.7116597,
+    "5ZxkhR5QzsBYRCEg7WS15559qxCyLSBmD5LBBHAypump": 1792033057.1595418
   }
 }

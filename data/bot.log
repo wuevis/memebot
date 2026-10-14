@@ -1277,3 +1277,14 @@
 14:24:32 INFO    Posiciones: 1 | PnL hoy: -0.3342 SOL | PnL total: -1.7359 SOL | saldo simulado: 0.4542 SOL
 14:24:32 INFO    Bot detenido. Posiciones abiertas: 1
 14:24:33 USD      Capital: $120.63 (empezo con $300, -59.8%) | efectivo $47.28 | en posiciones $73.35 | 1 abiertas | SOL=$104.10
+14:57:35 INFO    Modo: SIMULACIÓN | tamaño 0.289 SOL | máx 8 posiciones | pérdida diaria máx 0.579 SOL
+14:57:36 INFO      Polarpine  valor 0.0817 SOL  pnl  -84.0%  máx  +40.6%   59m
+14:57:37 INFO    VENTA Polarpine 100% -> 0.0814 SOL (-0.4280 SOL) | liquidez cayó 61%
+14:57:37 WARNING Límite de pérdida diaria alcanzado: no se abren posiciones hoy.
+14:57:37 INFO    Posiciones: 0 | PnL hoy: -0.7623 SOL | PnL total: -2.1639 SOL | saldo simulado: 0.5356 SOL
+14:57:56 WARNING Límite de pérdida diaria alcanzado: no se abren posiciones hoy.
+14:57:56 INFO    Posiciones: 0 | PnL hoy: -0.7623 SOL | PnL total: -2.1639 SOL | saldo simulado: 0.5356 SOL
+14:58:16 WARNING Límite de pérdida diaria alcanzado: no se abren posiciones hoy.
+14:58:16 INFO    Posiciones: 0 | PnL hoy: -0.7623 SOL | PnL total: -2.1639 SOL | saldo simulado: 0.5356 SOL
+14:58:16 INFO    Bot detenido. Posiciones abiertas: 0
+14:58:16 USD      Capital: $55.50 (empezo con $300, -81.5%) | efectivo $55.50 | en posiciones $0.00 | 0 abiertas | SOL=$103.63
