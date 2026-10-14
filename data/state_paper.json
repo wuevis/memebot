@@ -1,5 +1,5 @@
 {
-  "paper_sol": 0.6104425009178014,
+  "paper_sol": 0.7567655309178014,
   "positions": {
     "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T": {
       "token": "A2yA6AFtfKkfVkfsnGpvsKoUV5kQPpMYboZsBPvmkA9T",
@@ -29,9 +29,9 @@
         "roundtrip_loss_pct": 2.92,
         "size_usd": 45.71
       },
-      "peak_pnl_pct": 2.9478465391068465,
+      "peak_pnl_pct": 21.8688313300615,
       "tp_done": false,
-      "last_value_sol": 0.364317048
+      "last_value_sol": 0.506159368
     },
     "ng6pDHNYmSW7Sf2rr6Z2yrAGexVQ4SMRXc1v9Khpump": {
       "token": "ng6pDHNYmSW7Sf2rr6Z2yrAGexVQ4SMRXc1v9Khpump",
@@ -61,52 +61,21 @@
         "roundtrip_loss_pct": 3.03,
         "size_usd": 56.28
       },
-      "peak_pnl_pct": 8.194611898712756,
+      "peak_pnl_pct": 41.07969865647496,
       "tp_done": false,
-      "last_value_sol": 0.565709241
-    },
-    "FZHk2fo51sWy3d5DPuCbFC4maD8SEPPjxup1dzBtpump": {
-      "token": "FZHk2fo51sWy3d5DPuCbFC4maD8SEPPjxup1dzBtpump",
-      "symbol": "LURK",
-      "opened_at": 1791966361.6880763,
-      "cost_sol": 0.49927864438254416,
-      "raw_amount": 759171138716,
-      "entry_liq_usd": 21535.21,
-      "features": {
-        "token": "FZHk2fo51sWy3d5DPuCbFC4maD8SEPPjxup1dzBtpump",
-        "symbol": "LURK",
-        "score": 0.5898,
-        "price_usd": 6.776e-05,
-        "liquidity_usd": 21535,
-        "mcap_usd": 65570,
-        "age_min": 114.1,
-        "volume_h1": 142375,
-        "buys_h1": 1810,
-        "sells_h1": 1393,
-        "buy_sell_ratio": 1.3,
-        "change_m5": 14.97,
-        "change_h1": 63.98,
-        "change_h6": 53.02,
-        "dex": "pumpswap",
-        "rugcheck_score": 1,
-        "lp_locked_pct": 100,
-        "roundtrip_loss_pct": 2.74,
-        "size_usd": 53.74
-      },
-      "peak_pnl_pct": 0.0,
-      "tp_done": false,
-      "last_value_sol": 0.470947156
+      "last_value_sol": 0.717919625
     }
   },
   "day": "2026-10-14",
-  "day_realized_sol": 0.7601879787058716,
-  "total_realized_sol": -0.6414874289539374,
+  "day_realized_sol": 0.40723236432332743,
+  "total_realized_sol": -0.9944430433364816,
   "cooldown_until": {
     "7KKUmUG4p8kta1sBbMHnRUNoBfXX4zYbUFHspdHwpump": 1791819941.745758,
     "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump": 1791824840.547816,
     "8PGyHCKvSUjezHkV7KLwMacnmSJLe1YbRM1zvDVApump": 1791826943.0474138,
     "A8JUiZLzjGAsKxE74evdspHcuW4hvhPbvryDhaDZpump": 1791839275.1946084,
     "8Tq4hpxkc4Syv9p2dWb7yqn4idciSJhpZQMFNnE6pump": 1791896036.4259896,
-    "63A9mFGpX4Mws6TznZm4287P4vTsTxQ5NvcJPsbXpump": 1792005022.6554265
+    "63A9mFGpX4Mws6TznZm4287P4vTsTxQ5NvcJPsbXpump": 1792005022.6554265,
+    "FZHk2fo51sWy3d5DPuCbFC4maD8SEPPjxup1dzBtpump": 1792011593.6704736
   }
 }

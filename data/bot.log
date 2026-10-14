@@ -1092,3 +1092,20 @@
 08:26:35 INFO    Posiciones: 3 | PnL hoy: +0.7602 SOL | PnL total: -0.6415 SOL | saldo simulado: 0.6104 SOL
 08:26:35 INFO    Bot detenido. Posiciones abiertas: 3
 08:26:35 USD      Capital: $216.63 (empezo con $300, -27.8%) | efectivo $65.74 | en posiciones $150.88 | 3 abiertas | SOL=$107.70
+08:59:49 INFO    Modo: SIMULACIÓN | tamaño 0.281 SOL | máx 8 posiciones | pérdida diaria máx 0.561 SOL
+08:59:50 INFO      SAINDRA    valor 0.5161 SOL  pnl  +21.3%  máx  +21.3%   61m
+08:59:51 INFO      PSI        valor 0.7377 SOL  pnl  +41.1%  máx  +41.1%   34m
+08:59:52 INFO      LURK       valor 0.1466 SOL  pnl  -70.6%  máx   +0.0%   34m
+08:59:53 INFO    VENTA LURK 100% -> 0.1463 SOL (-0.3530 SOL) | stop loss -70.6%
+08:59:57 INFO    Escaneados 50 tokens, 0 pasan filtros de momentum.
+08:59:57 INFO    Posiciones: 2 | PnL hoy: +0.4072 SOL | PnL total: -0.9944 SOL | saldo simulado: 0.7568 SOL
+09:00:10 INFO      SAINDRA    valor 0.5185 SOL  pnl  +21.9%  máx  +21.9%   61m
+09:00:11 INFO      PSI        valor 0.7183 SOL  pnl  +37.4%  máx  +41.1%   34m
+09:00:15 INFO    Escaneados 50 tokens, 0 pasan filtros de momentum.
+09:00:15 INFO    Posiciones: 2 | PnL hoy: +0.4072 SOL | PnL total: -0.9944 SOL | saldo simulado: 0.7568 SOL
+09:00:30 INFO      SAINDRA    valor 0.5062 SOL  pnl  +19.0%  máx  +21.9%   61m
+09:00:31 INFO      PSI        valor 0.7179 SOL  pnl  +37.3%  máx  +41.1%   35m
+09:00:35 INFO    Escaneados 50 tokens, 0 pasan filtros de momentum.
+09:00:35 INFO    Posiciones: 2 | PnL hoy: +0.4072 SOL | PnL total: -0.9944 SOL | saldo simulado: 0.7568 SOL
+09:00:35 INFO    Bot detenido. Posiciones abiertas: 2
+09:00:35 USD      Capital: $211.79 (empezo con $300, -29.4%) | efectivo $80.91 | en posiciones $130.88 | 2 abiertas | SOL=$106.92
