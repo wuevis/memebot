@@ -29,9 +29,9 @@
         "roundtrip_loss_pct": 2.92,
         "size_usd": 45.71
       },
-      "peak_pnl_pct": 28.850738712367296,
+      "peak_pnl_pct": 57.46417046106147,
       "tp_done": false,
-      "last_value_sol": 0.50002338
+      "last_value_sol": 0.663236587
     },
     "E5SzGqbAaXQwwtkRYsrL4NrcvJfcSFjm8aSwyMhCpump": {
       "token": "E5SzGqbAaXQwwtkRYsrL4NrcvJfcSFjm8aSwyMhCpump",
@@ -61,9 +61,9 @@
         "roundtrip_loss_pct": 2.36,
         "size_usd": 60.02
       },
-      "peak_pnl_pct": 0.0,
+      "peak_pnl_pct": 2.331187821455827,
       "tp_done": false,
-      "last_value_sol": 0.54932757
+      "last_value_sol": 0.567390008
     }
   },
   "day": "2026-10-14",
