@@ -1142,3 +1142,22 @@
 10:00:12 INFO    Posiciones: 2 | PnL hoy: +0.1823 SOL | PnL total: -1.2194 SOL | saldo simulado: 0.1988 SOL
 10:00:12 INFO    Bot detenido. Posiciones abiertas: 2
 10:00:12 USD      Capital: $162.11 (empezo con $300, -46.0%) | efectivo $21.20 | en posiciones $140.91 | 2 abiertas | SOL=$106.64
+10:26:19 INFO    Modo: SIMULACIÓN | tamaño 0.281 SOL | máx 8 posiciones | pérdida diaria máx 0.563 SOL
+10:26:20 INFO      SAINDRA    valor 0.5008 SOL  pnl  +17.7%  máx  +28.9%  147m
+10:26:21 INFO      ROAD       valor 0.4971 SOL  pnl  -41.9%  máx  +11.1%   58m
+10:26:22 INFO    VENTA ROAD 100% -> 0.4968 SOL (-0.3591 SOL) | stop loss -41.9%
+10:26:26 INFO    Escaneados 49 tokens, 2 pasan filtros de momentum.
+10:26:28 INFO    Potencial 0.63 -> se invierten $60.02 en VEILDOGE
+10:26:29 INFO    COMPRA VEILDOGE por 0.5632 SOL (score 0.63) https://dexscreener.com/solana/yemmw7mpxoatga2oid5bfedvz89twcbebj9c69kp3wh
+10:26:29 INFO    Saldo insuficiente (0.1324 SOL).
+10:26:29 INFO    Posiciones: 2 | PnL hoy: -0.1768 SOL | PnL total: -1.5785 SOL | saldo simulado: 0.1324 SOL
+10:26:40 INFO      SAINDRA    valor 0.4964 SOL  pnl  +16.7%  máx  +28.9%  148m
+10:26:41 INFO      VEILDOGE   valor 0.5544 SOL  pnl   -1.6%  máx   +0.0%    0m
+10:26:41 INFO    Saldo insuficiente (0.1324 SOL).
+10:26:41 INFO    Posiciones: 2 | PnL hoy: -0.1768 SOL | PnL total: -1.5785 SOL | saldo simulado: 0.1324 SOL
+10:27:00 INFO      SAINDRA    valor 0.5000 SOL  pnl  +17.5%  máx  +28.9%  148m
+10:27:01 INFO      VEILDOGE   valor 0.5493 SOL  pnl   -2.5%  máx   +0.0%    1m
+10:27:01 INFO    Saldo insuficiente (0.1324 SOL).
+10:27:01 INFO    Posiciones: 2 | PnL hoy: -0.1768 SOL | PnL total: -1.5785 SOL | saldo simulado: 0.1324 SOL
+10:27:01 INFO    Bot detenido. Posiciones abiertas: 2
+10:27:01 USD      Capital: $126.01 (empezo con $300, -58.0%) | efectivo $14.11 | en posiciones $111.89 | 2 abiertas | SOL=$106.63
