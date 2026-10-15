@@ -31,7 +31,7 @@
       },
       "peak_pnl_pct": 89.8968935363434,
       "tp_done": true,
-      "last_value_sol": 0.326651793
+      "last_value_sol": 0.334402619
     },
     "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump": {
       "token": "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump",
@@ -61,9 +61,9 @@
         "roundtrip_loss_pct": 2.62,
         "size_usd": 35.31150195408
       },
-      "peak_pnl_pct": 0.0,
+      "peak_pnl_pct": 23.21471420889951,
       "tp_done": false,
-      "last_value_sol": 0.302937157
+      "last_value_sol": 0.419369704
     }
   },
   "day": "2026-10-15",
