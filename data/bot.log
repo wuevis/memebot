@@ -1671,3 +1671,17 @@
 09:58:04 INFO    Posiciones: 0 | PnL hoy: +0.4852 SOL | PnL total: -1.6787 SOL | saldo simulado: 1.0208 SOL
 09:58:04 INFO    Bot detenido. Posiciones abiertas: 0
 09:58:04 USD      Capital: $105.17 (empezo con $300, -64.9%) | efectivo $105.17 | en posiciones $0.00 | 0 abiertas | SOL=$103.02
+10:21:12 INFO    Modo: SIMULACIÓN | tamaño 0.294 SOL | máx 8 posiciones | pérdida diaria máx 0.588 SOL
+10:21:15 INFO    Escaneados 47 tokens, 2 pasan filtros de momentum.
+10:21:17 INFO    Potencial 0.81 -> se invierten $92.57 en H20
+10:21:18 INFO    COMPRA H20 por 0.9069 SOL (score 0.81) https://dexscreener.com/solana/uxa1tixxerbbdmhbp8ekqqudkachhtmr2as1kcp5gw5
+10:21:18 INFO    Saldo insuficiente (0.1140 SOL).
+10:21:18 INFO    Posiciones: 1 | PnL hoy: +0.4852 SOL | PnL total: -1.6787 SOL | saldo simulado: 0.1140 SOL
+10:21:32 INFO      H20        valor 0.8946 SOL  pnl   -1.3%  máx   +0.0%    0m
+10:21:32 INFO    Saldo insuficiente (0.1140 SOL).
+10:21:32 INFO    Posiciones: 1 | PnL hoy: +0.4852 SOL | PnL total: -1.6787 SOL | saldo simulado: 0.1140 SOL
+10:21:52 INFO      H20        valor 0.9365 SOL  pnl   +3.3%  máx   +3.3%    1m
+10:21:52 INFO    Saldo insuficiente (0.1140 SOL).
+10:21:52 INFO    Posiciones: 1 | PnL hoy: +0.4852 SOL | PnL total: -1.6787 SOL | saldo simulado: 0.1140 SOL
+10:21:52 INFO    Bot detenido. Posiciones abiertas: 1
+10:21:52 USD      Capital: $107.26 (empezo con $300, -64.2%) | efectivo $11.64 | en posiciones $95.63 | 1 abiertas | SOL=$102.11
