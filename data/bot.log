@@ -1778,3 +1778,14 @@
 15:26:08 INFO    Posiciones: 1 | PnL hoy: +0.1774 SOL | PnL total: -1.9865 SOL | saldo simulado: 0.0282 SOL
 15:26:08 INFO    Bot detenido. Posiciones abiertas: 1
 15:26:08 USD      Capital: $63.69 (empezo con $300, -78.8%) | efectivo $2.97 | en posiciones $60.72 | 1 abiertas | SOL=$105.33
+15:58:32 INFO    Modo: SIMULACIÓN | tamaño 0.283 SOL | máx 8 posiciones | pérdida diaria máx 0.566 SOL
+15:58:32 INFO      LEEKDUCK   valor 0.0032 SOL  pnl  -99.5%  máx   +0.0%   33m
+15:58:33 INFO    VENTA LEEKDUCK 100% -> 0.0029 SOL (-0.6819 SOL) | liquidez cayó 96%
+15:58:33 INFO    Saldo insuficiente (0.0311 SOL).
+15:58:33 INFO    Posiciones: 0 | PnL hoy: -0.5045 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+15:58:52 INFO    Saldo insuficiente (0.0311 SOL).
+15:58:52 INFO    Posiciones: 0 | PnL hoy: -0.5045 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+15:59:12 INFO    Saldo insuficiente (0.0311 SOL).
+15:59:12 INFO    Posiciones: 0 | PnL hoy: -0.5045 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+15:59:12 INFO    Bot detenido. Posiciones abiertas: 0
+15:59:12 USD      Capital: $3.30 (empezo con $300, -98.9%) | efectivo $3.30 | en posiciones $0.00 | 0 abiertas | SOL=$106.02

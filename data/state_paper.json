@@ -1,42 +1,9 @@
 {
-  "paper_sol": 0.02818200000000004,
-  "positions": {
-    "A3PmWz6pTmCcosqnA8XQAghtjGtwLrbcodboMYoqpump": {
-      "token": "A3PmWz6pTmCcosqnA8XQAghtjGtwLrbcodboMYoqpump",
-      "symbol": "LEEKDUCK",
-      "opened_at": 1792077936.2187033,
-      "cost_sol": 0.6848189106449869,
-      "raw_amount": 167334557859,
-      "entry_liq_usd": 54920.54,
-      "features": {
-        "token": "A3PmWz6pTmCcosqnA8XQAghtjGtwLrbcodboMYoqpump",
-        "symbol": "LEEKDUCK",
-        "score": 0.8334,
-        "price_usd": 0.0004074,
-        "liquidity_usd": 54921,
-        "mcap_usd": 404115,
-        "age_min": 64.0,
-        "volume_h1": 602682,
-        "buys_h1": 5953,
-        "sells_h1": 2314,
-        "buy_sell_ratio": 2.57,
-        "change_m5": 15.26,
-        "change_h1": 90.34,
-        "change_h6": 558.0,
-        "dex": "pumpswap",
-        "rugcheck_score": 1,
-        "lp_locked_pct": 100,
-        "roundtrip_loss_pct": 0.39,
-        "size_usd": 72.10037685823647
-      },
-      "peak_pnl_pct": 0.0,
-      "tp_done": false,
-      "last_value_sol": 0.576459687
-    }
-  },
+  "paper_sol": 0.03109839500000004,
+  "positions": {},
   "day": "2026-10-15",
-  "day_realized_sol": 0.17739841658980116,
-  "total_realized_sol": -1.9865400893550127,
+  "day_realized_sol": -0.5045040990551858,
+  "total_realized_sol": -2.6684426049999996,
   "cooldown_until": {
     "7KKUmUG4p8kta1sBbMHnRUNoBfXX4zYbUFHspdHwpump": 1791819941.745758,
     "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump": 1791824840.547816,
@@ -58,6 +25,7 @@
     "9a98oQHtxfqmr4EyzsP6wfw69uYAK3JbUeVEuNW1pump": 1792101441.2036479,
     "9pTGUwAhG3CLAcu8rZKgu8cQaeAdQRmkbbG8hfzzpump": 1792106443.0718718,
     "BwfhQdmN6ChQSvMagZTMtL15JCL9skyEpm1ukB57pump": 1792113061.3674562,
-    "7fumw7GYTHZJJxkKJ8sSh1CqTdHmB234vX3xsKjepump": 1792121129.3637226
+    "7fumw7GYTHZJJxkKJ8sSh1CqTdHmB234vX3xsKjepump": 1792121129.3637226,
+    "A3PmWz6pTmCcosqnA8XQAghtjGtwLrbcodboMYoqpump": 1792123113.5873833
   }
 }
