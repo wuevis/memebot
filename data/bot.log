@@ -1478,3 +1478,15 @@
 02:18:32 INFO    Posiciones: 1 | PnL hoy: +0.0000 SOL | PnL total: -2.1639 SOL | saldo simulado: 0.0284 SOL
 02:18:32 INFO    Bot detenido. Posiciones abiertas: 1
 02:18:32 USD      Capital: $44.38 (empezo con $300, -85.2%) | efectivo $2.94 | en posiciones $41.45 | 1 abiertas | SOL=$103.48
+02:55:48 INFO    Modo: SIMULACIÓN | tamaño 0.290 SOL | máx 8 posiciones | pérdida diaria máx 0.580 SOL
+02:55:48 INFO      DIKSHIT    valor 0.4373 SOL  pnl  -13.8%  máx   +0.0%  112m
+02:55:48 INFO    Saldo insuficiente (0.0284 SOL).
+02:55:48 INFO    Posiciones: 1 | PnL hoy: +0.0000 SOL | PnL total: -2.1639 SOL | saldo simulado: 0.0284 SOL
+02:56:08 INFO      DIKSHIT    valor 0.4373 SOL  pnl  -13.8%  máx   +0.0%  112m
+02:56:08 INFO    Saldo insuficiente (0.0284 SOL).
+02:56:08 INFO    Posiciones: 1 | PnL hoy: +0.0000 SOL | PnL total: -2.1639 SOL | saldo simulado: 0.0284 SOL
+02:56:28 INFO      DIKSHIT    valor 0.4443 SOL  pnl  -12.4%  máx   +0.0%  112m
+02:56:28 INFO    Saldo insuficiente (0.0284 SOL).
+02:56:28 INFO    Posiciones: 1 | PnL hoy: +0.0000 SOL | PnL total: -2.1639 SOL | saldo simulado: 0.0284 SOL
+02:56:28 INFO    Bot detenido. Posiciones abiertas: 1
+02:56:29 USD      Capital: $48.87 (empezo con $300, -83.7%) | efectivo $2.93 | en posiciones $45.94 | 1 abiertas | SOL=$103.39
