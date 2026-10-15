@@ -1,6 +1,39 @@
 {
-  "paper_sol": 0.5356024940551857,
-  "positions": {},
+  "paper_sol": 0.028364000000000056,
+  "positions": {
+    "AMQ8BusAhpwbt3ufSCTi4k3BEQ7AecX9u12Jnk6Spump": {
+      "token": "AMQ8BusAhpwbt3ufSCTi4k3BEQ7AecX9u12Jnk6Spump",
+      "symbol": "DIKSHIT",
+      "opened_at": 1792026247.3754337,
+      "cost_sol": 0.5072384940551856,
+      "raw_amount": 241753828809,
+      "entry_liq_usd": 40362.72,
+      "features": {
+        "token": "AMQ8BusAhpwbt3ufSCTi4k3BEQ7AecX9u12Jnk6Spump",
+        "symbol": "DIKSHIT",
+        "score": 0.6236,
+        "price_usd": 0.0002043,
+        "liquidity_usd": 40363,
+        "mcap_usd": 196129,
+        "age_min": 701.3,
+        "volume_h1": 24789,
+        "buys_h1": 313,
+        "sells_h1": 200,
+        "buy_sell_ratio": 1.56,
+        "change_m5": 20.49,
+        "change_h1": 12.36,
+        "change_h6": 11.79,
+        "dex": "pumpswap",
+        "rugcheck_score": 1,
+        "lp_locked_pct": 99.9999034199121,
+        "roundtrip_loss_pct": 2.74,
+        "size_usd": 53.05618278781573
+      },
+      "peak_pnl_pct": 0.0,
+      "tp_done": false,
+      "last_value_sol": 0.4939232
+    }
+  },
   "day": "2026-10-15",
   "day_realized_sol": 0.0,
   "total_realized_sol": -2.1639385059448144,

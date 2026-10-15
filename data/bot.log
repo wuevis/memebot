@@ -1441,3 +1441,16 @@
 00:11:43 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.1639 SOL | saldo simulado: 0.5356 SOL
 00:11:43 INFO    Bot detenido. Posiciones abiertas: 0
 00:11:43 USD      Capital: $55.88 (empezo con $300, -81.4%) | efectivo $55.88 | en posiciones $0.00 | 0 abiertas | SOL=$104.33
+01:03:57 INFO    Modo: SIMULACIÓN | tamaño 0.287 SOL | máx 8 posiciones | pérdida diaria máx 0.573 SOL
+01:04:01 INFO    Escaneados 60 tokens, 1 pasan filtros de momentum.
+01:04:06 INFO    Potencial 0.62 -> se invierten $53.06 en DIKSHIT
+01:04:07 INFO    COMPRA DIKSHIT por 0.5072 SOL (score 0.62) https://dexscreener.com/solana/amjyxedj5q9bjscxmxxndcnkrt39zx4jqz9nwp8hudrn
+01:04:07 INFO    Posiciones: 1 | PnL hoy: +0.0000 SOL | PnL total: -2.1639 SOL | saldo simulado: 0.0284 SOL
+01:04:18 INFO      DIKSHIT    valor 0.4879 SOL  pnl   -3.8%  máx   +0.0%    0m
+01:04:18 INFO    Saldo insuficiente (0.0284 SOL).
+01:04:18 INFO    Posiciones: 1 | PnL hoy: +0.0000 SOL | PnL total: -2.1639 SOL | saldo simulado: 0.0284 SOL
+01:04:38 INFO      DIKSHIT    valor 0.4939 SOL  pnl   -2.6%  máx   +0.0%    1m
+01:04:38 INFO    Saldo insuficiente (0.0284 SOL).
+01:04:38 INFO    Posiciones: 1 | PnL hoy: +0.0000 SOL | PnL total: -2.1639 SOL | saldo simulado: 0.0284 SOL
+01:04:38 INFO    Bot detenido. Posiciones abiertas: 1
+01:04:38 USD      Capital: $54.66 (empezo con $300, -81.8%) | efectivo $2.97 | en posiciones $51.69 | 1 abiertas | SOL=$104.66
