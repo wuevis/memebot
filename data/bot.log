@@ -1718,3 +1718,16 @@
 11:56:22 INFO    Posiciones: 0 | PnL hoy: +0.8524 SOL | PnL total: -1.3116 SOL | saldo simulado: 1.3880 SOL
 11:56:22 INFO    Bot detenido. Posiciones abiertas: 0
 11:56:22 USD      Capital: $142.02 (empezo con $300, -52.7%) | efectivo $142.02 | en posiciones $0.00 | 0 abiertas | SOL=$102.32
+12:18:59 INFO    Modo: SIMULACIÓN | tamaño 0.294 SOL | máx 8 posiciones | pérdida diaria máx 0.587 SOL
+12:19:03 INFO    Escaneados 48 tokens, 3 pasan filtros de momentum.
+12:19:06 INFO    Potencial 0.59 -> se invierten $54.42 en HELLCAT
+12:19:07 INFO    COMPRA HELLCAT por 0.5329 SOL (score 0.59) https://dexscreener.com/solana/2xdstpwi6pca9tuenf3esana22mwk4bmshgp9yhnpceh
+12:19:08 INFO    Posiciones: 1 | PnL hoy: +0.8524 SOL | PnL total: -1.3116 SOL | saldo simulado: 0.8551 SOL
+12:19:20 INFO      HELLCAT    valor 0.5348 SOL  pnl   +0.4%  máx   +0.4%    0m
+12:19:23 INFO    Escaneados 47 tokens, 2 pasan filtros de momentum.
+12:19:25 INFO    Posiciones: 1 | PnL hoy: +0.8524 SOL | PnL total: -1.3116 SOL | saldo simulado: 0.8551 SOL
+12:19:40 INFO      HELLCAT    valor 0.5036 SOL  pnl   -5.5%  máx   +0.4%    1m
+12:19:43 INFO    Escaneados 47 tokens, 1 pasan filtros de momentum.
+12:19:44 INFO    Posiciones: 1 | PnL hoy: +0.8524 SOL | PnL total: -1.3116 SOL | saldo simulado: 0.8551 SOL
+12:19:44 INFO    Bot detenido. Posiciones abiertas: 1
+12:19:44 USD      Capital: $138.83 (empezo con $300, -53.7%) | efectivo $87.37 | en posiciones $51.46 | 1 abiertas | SOL=$102.18
