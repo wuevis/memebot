@@ -1,5 +1,5 @@
 {
-  "paper_sol": 0.028590999999999978,
+  "paper_sol": 0.32693298099999996,
   "positions": {
     "9a98oQHtxfqmr4EyzsP6wfw69uYAK3JbUeVEuNW1pump": {
       "token": "9a98oQHtxfqmr4EyzsP6wfw69uYAK3JbUeVEuNW1pump",
@@ -31,14 +31,14 @@
       },
       "peak_pnl_pct": 104.02872584941049,
       "tp_done": true,
-      "last_value_sol": 0.362575823
+      "last_value_sol": 0.358273011
     },
     "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump": {
       "token": "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump",
       "symbol": "FTR",
       "opened_at": 1792040167.0243912,
-      "cost_sol": 0.340356837,
-      "raw_amount": 128647241462,
+      "cost_sol": 0.1701784185,
+      "raw_amount": 64323620731,
       "entry_liq_usd": 45084.12,
       "features": {
         "token": "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump",
@@ -61,14 +61,14 @@
         "roundtrip_loss_pct": 2.62,
         "size_usd": 35.31150195408
       },
-      "peak_pnl_pct": 23.21471420889951,
-      "tp_done": false,
-      "last_value_sol": 0.294646388
+      "peak_pnl_pct": 78.91707226084017,
+      "tp_done": true,
+      "last_value_sol": 0.304478244
     }
   },
   "day": "2026-10-15",
-  "day_realized_sol": 0.012436927955100152,
-  "total_realized_sol": -2.151501577989714,
+  "day_realized_sol": 0.14060049045510012,
+  "total_realized_sol": -2.023338015489714,
   "cooldown_until": {
     "7KKUmUG4p8kta1sBbMHnRUNoBfXX4zYbUFHspdHwpump": 1791819941.745758,
     "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump": 1791824840.547816,
