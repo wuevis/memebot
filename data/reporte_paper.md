@@ -1,17 +1,17 @@
 # Reporte del bot
 
-- Operaciones cerradas: **19**
-- Win rate: **47%**
-- PnL total: **-1.3116 SOL**
+- Operaciones cerradas: **20**
+- Win rate: **45%**
+- PnL total: **-1.8413 SOL**
 - Ganancia media: +0.2819 SOL
-- Pérdida media: -0.3849 SOL
-- Profit factor: 0.66
-- Tiempo medio en posición: 140 min
+- Pérdida media: -0.3980 SOL
+- Profit factor: 0.58
+- Tiempo medio en posición: 135 min
 
 ### Por motivo de salida
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
-| liquidez | 5 | 20% | -2.3551 | -72.5% |
+| liquidez | 6 | 17% | -2.8849 | -77.0% |
 | stop | 7 | 14% | -1.4286 | -32.5% |
 | tiempo | 3 | 100% | +1.0240 | +86.5% |
 | trailing | 4 | 100% | +1.4482 | +74.9% |
@@ -19,7 +19,7 @@
 ### Por score de momentum
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
-| 0.5–0.6 | 9 | 56% | +0.4770 | +15.9% |
+| 0.5–0.6 | 10 | 50% | -0.0528 | +4.4% |
 | 0.6–0.7 | 3 | 33% | -0.3630 | -23.5% |
 | 0.7–0.8 | 3 | 33% | -0.6018 | -7.3% |
 | 0.8–0.9 | 3 | 33% | -0.8784 | -33.5% |
@@ -29,7 +29,7 @@
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
 | 0h–1h | 7 | 29% | -1.0484 | -13.1% |
-| 1h–3h | 10 | 60% | -0.5062 | -2.0% |
+| 1h–3h | 11 | 55% | -1.0359 | -10.8% |
 | 6h–12h | 2 | 50% | +0.2430 | +40.0% |
 
 ### Por liquidez (USD)
@@ -38,7 +38,7 @@
 | 0–25,000 | 6 | 17% | -1.1822 | -38.9% |
 | 100,000–250,000 | 2 | 50% | +0.2708 | +40.8% |
 | 25,000–50,000 | 10 | 60% | -0.4105 | +11.9% |
-| 50,000–100,000 | 1 | 100% | +0.0104 | +1.8% |
+| 50,000–100,000 | 2 | 50% | -0.5194 | -48.8% |
 
 ### Por subida en 1h al entrar
 | grupo | trades | win rate | PnL SOL | PnL medio % |
@@ -47,13 +47,13 @@
 | 100%–150% | 3 | 67% | +0.3426 | +29.3% |
 | 15%–30% | 5 | 80% | +0.0508 | +24.0% |
 | 30%–60% | 2 | 50% | +0.3239 | +38.4% |
-| 60%–100% | 8 | 25% | -1.8805 | -35.8% |
+| 60%–100% | 9 | 22% | -2.4103 | -42.9% |
 
 ### Por ratio compras/ventas
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
 | 1.0–1.3 | 3 | 100% | +1.2593 | +97.8% |
-| 1.3–1.6 | 9 | 22% | -1.5710 | -32.4% |
+| 1.3–1.6 | 10 | 20% | -2.1007 | -39.1% |
 | 1.6–2.0 | 3 | 33% | -0.6484 | -26.4% |
 | 2.0–3.0 | 4 | 75% | -0.3515 | +11.5% |
 
@@ -65,9 +65,9 @@
 | STREAM | +0.3914 | tiempo máximo (360m) |
 | H20 | +0.3671 | trailing stop (máx 109%, ahora -20%) |
 | FIGHT | +0.1881 | tiempo máximo (361m) |
-| LURK | -0.3530 | stop loss -70.6% |
 | ROAD | -0.3591 | stop loss -41.9% |
 | Polarpine | -0.4280 | liquidez cayó 61% |
+| HELLCAT | -0.5298 | liquidez cayó 97% |
 | FEED | -0.7160 | liquidez cayó 89% |
 | DOGELON | -0.8864 | liquidez cayó 95% |
 
@@ -79,11 +79,11 @@
   "rpc_url": "https://api.mainnet-beta.solana.com",
   "data_dir": "data",
   "scan_interval_sec": 20,
-  "paper_start_sol": 2.935995,
-  "position_size_sol": 0.2936,
+  "paper_start_sol": 2.952465,
+  "position_size_sol": 0.295247,
   "max_open_positions": 8,
-  "max_daily_loss_sol": 0.587199,
-  "min_sol_reserve": 0.02936,
+  "max_daily_loss_sol": 0.590493,
+  "min_sol_reserve": 0.029525,
   "cooldown_minutes": 720,
   "min_age_minutes": 10,
   "max_age_hours": 48,
