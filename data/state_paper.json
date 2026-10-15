@@ -1,12 +1,12 @@
 {
-  "paper_sol": 0.11397410931793939,
+  "paper_sol": 1.0246672753179396,
   "positions": {
     "9pTGUwAhG3CLAcu8rZKgu8cQaeAdQRmkbbG8hfzzpump": {
       "token": "9pTGUwAhG3CLAcu8rZKgu8cQaeAdQRmkbbG8hfzzpump",
       "symbol": "H20",
       "opened_at": 1792059678.7450566,
-      "cost_sol": 0.9068713446283418,
-      "raw_amount": 1308639967500,
+      "cost_sol": 0.4534356723141709,
+      "raw_amount": 654319983750,
       "entry_liq_usd": 20872.92,
       "features": {
         "token": "9pTGUwAhG3CLAcu8rZKgu8cQaeAdQRmkbbG8hfzzpump",
@@ -29,14 +29,14 @@
         "roundtrip_loss_pct": 2.94,
         "size_usd": 92.57
       },
-      "peak_pnl_pct": 3.266243943764424,
-      "tp_done": false,
-      "last_value_sol": 0.936491975
+      "peak_pnl_pct": 109.29413915684574,
+      "tp_done": true,
+      "last_value_sol": 0.949014287
     }
   },
   "day": "2026-10-15",
-  "day_realized_sol": 0.48524295989109556,
-  "total_realized_sol": -1.6786955460537185,
+  "day_realized_sol": 0.9425004535769247,
+  "total_realized_sol": -1.2214380523678894,
   "cooldown_until": {
     "7KKUmUG4p8kta1sBbMHnRUNoBfXX4zYbUFHspdHwpump": 1791819941.745758,
     "AVfEas6mLgkXNvVWcc6qeHLpYeA8nRx42iB9WBKhpump": 1791824840.547816,

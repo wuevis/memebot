@@ -1685,3 +1685,16 @@
 10:21:52 INFO    Posiciones: 1 | PnL hoy: +0.4852 SOL | PnL total: -1.6787 SOL | saldo simulado: 0.1140 SOL
 10:21:52 INFO    Bot detenido. Posiciones abiertas: 1
 10:21:52 USD      Capital: $107.26 (empezo con $300, -64.2%) | efectivo $11.64 | en posiciones $95.63 | 1 abiertas | SOL=$102.11
+10:57:29 INFO    Modo: SIMULACIÓN | tamaño 0.293 SOL | máx 8 posiciones | pérdida diaria máx 0.586 SOL
+10:57:29 INFO      H20        valor 1.8183 SOL  pnl +100.5%  máx +100.5%   36m
+10:57:30 INFO    VENTA H20 50% -> 0.9107 SOL (+0.4573 SOL) | take profit parcial 100%
+10:57:34 INFO    Escaneados 48 tokens, 1 pasan filtros de momentum.
+10:57:34 INFO    Posiciones: 1 | PnL hoy: +0.9425 SOL | PnL total: -1.2214 SOL | saldo simulado: 1.0247 SOL
+10:57:49 INFO      H20        valor 0.9005 SOL  pnl  +98.6%  máx +100.5%   37m
+10:57:53 INFO    Escaneados 48 tokens, 1 pasan filtros de momentum.
+10:57:53 INFO    Posiciones: 1 | PnL hoy: +0.9425 SOL | PnL total: -1.2214 SOL | saldo simulado: 1.0247 SOL
+10:58:09 INFO      H20        valor 0.9490 SOL  pnl +109.3%  máx +109.3%   37m
+10:58:13 INFO    Escaneados 48 tokens, 1 pasan filtros de momentum.
+10:58:13 INFO    Posiciones: 1 | PnL hoy: +0.9425 SOL | PnL total: -1.2214 SOL | saldo simulado: 1.0247 SOL
+10:58:13 INFO    Bot detenido. Posiciones abiertas: 1
+10:58:13 USD      Capital: $202.03 (empezo con $300, -32.7%) | efectivo $104.88 | en posiciones $97.14 | 1 abiertas | SOL=$102.36
