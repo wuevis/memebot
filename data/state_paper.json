@@ -1,5 +1,5 @@
 {
-  "paper_sol": 0.32693298099999996,
+  "paper_sol": 0.03893783894628128,
   "positions": {
     "9a98oQHtxfqmr4EyzsP6wfw69uYAK3JbUeVEuNW1pump": {
       "token": "9a98oQHtxfqmr4EyzsP6wfw69uYAK3JbUeVEuNW1pump",
@@ -29,9 +29,9 @@
         "roundtrip_loss_pct": 3.42,
         "size_usd": 36.607869459300005
       },
-      "peak_pnl_pct": 104.02872584941049,
+      "peak_pnl_pct": 116.32014925645429,
       "tp_done": true,
-      "last_value_sol": 0.358273011
+      "last_value_sol": 0.387411184
     },
     "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump": {
       "token": "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump",
@@ -61,9 +61,41 @@
         "roundtrip_loss_pct": 2.62,
         "size_usd": 35.31150195408
       },
-      "peak_pnl_pct": 78.91707226084017,
+      "peak_pnl_pct": 87.25674195873432,
       "tp_done": true,
-      "last_value_sol": 0.304478244
+      "last_value_sol": 0.318670562
+    },
+    "CoHH4XfCpEcAuQga8iSr3hCta3vyFxYW6BtQRAV3xQMo": {
+      "token": "CoHH4XfCpEcAuQga8iSr3hCta3vyFxYW6BtQRAV3xQMo",
+      "symbol": "NIHILISM",
+      "opened_at": 1792051173.7652094,
+      "cost_sol": 0.2879951420537187,
+      "raw_amount": 122998973958,
+      "entry_liq_usd": 46482.85,
+      "features": {
+        "token": "CoHH4XfCpEcAuQga8iSr3hCta3vyFxYW6BtQRAV3xQMo",
+        "symbol": "NIHILISM",
+        "score": 0.4544,
+        "price_usd": 0.000251,
+        "liquidity_usd": 46483,
+        "mcap_usd": 241601,
+        "age_min": 174.2,
+        "volume_h1": 171037,
+        "buys_h1": 2262,
+        "sells_h1": 1773,
+        "buy_sell_ratio": 1.28,
+        "change_m5": 4.47,
+        "change_h1": 21.11,
+        "change_h6": 494.0,
+        "dex": "pumpswap",
+        "rugcheck_score": 1,
+        "lp_locked_pct": 66.44282791199434,
+        "roundtrip_loss_pct": 2.72,
+        "size_usd": 29.67
+      },
+      "peak_pnl_pct": 0.0,
+      "tp_done": false,
+      "last_value_sol": 0.272379645
     }
   },
   "day": "2026-10-15",
