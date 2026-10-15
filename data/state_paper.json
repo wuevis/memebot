@@ -1,6 +1,39 @@
 {
-  "paper_sol": 0.38721117000000005,
-  "positions": {},
+  "paper_sol": 0.029027999999999998,
+  "positions": {
+    "9a98oQHtxfqmr4EyzsP6wfw69uYAK3JbUeVEuNW1pump": {
+      "token": "9a98oQHtxfqmr4EyzsP6wfw69uYAK3JbUeVEuNW1pump",
+      "symbol": "STREAM",
+      "opened_at": 1792036638.4136906,
+      "cost_sol": 0.35818317000000005,
+      "raw_amount": 17411535027,
+      "entry_liq_usd": 129562.5,
+      "features": {
+        "token": "9a98oQHtxfqmr4EyzsP6wfw69uYAK3JbUeVEuNW1pump",
+        "symbol": "STREAM",
+        "score": 0.7158,
+        "price_usd": 0.002089,
+        "liquidity_usd": 129562,
+        "mcap_usd": 2079776,
+        "age_min": 518.8,
+        "volume_h1": 131861,
+        "buys_h1": 1604,
+        "sells_h1": 800,
+        "buy_sell_ratio": 2.0,
+        "change_m5": 30.51,
+        "change_h1": 21.76,
+        "change_h6": 323.0,
+        "dex": "pumpswap",
+        "rugcheck_score": 1,
+        "lp_locked_pct": 100,
+        "roundtrip_loss_pct": 3.42,
+        "size_usd": 36.607869459300005
+      },
+      "peak_pnl_pct": 0.0,
+      "tp_done": false,
+      "last_value_sol": 0.339452306
+    }
+  },
   "day": "2026-10-15",
   "day_realized_sol": -0.14839132405518562,
   "total_realized_sol": -2.31232983,
