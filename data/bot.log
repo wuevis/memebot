@@ -1527,3 +1527,21 @@
 04:21:19 INFO    Posiciones: 1 | PnL hoy: -0.1484 SOL | PnL total: -2.3123 SOL | saldo simulado: 0.0290 SOL
 04:21:19 INFO    Bot detenido. Posiciones abiertas: 1
 04:21:19 USD      Capital: $51.45 (empezo con $300, -82.8%) | efectivo $2.99 | en posiciones $48.46 | 1 abiertas | SOL=$102.95
+04:55:58 INFO    Modo: SIMULACIÓN | tamaño 0.289 SOL | máx 8 posiciones | pérdida diaria máx 0.578 SOL
+04:55:58 INFO      STREAM     valor 0.6802 SOL  pnl  +89.9%  máx  +89.9%   59m
+04:55:59 INFO    VENTA STREAM 50% -> 0.3399 SOL (+0.1608 SOL) | take profit parcial 90%
+04:56:03 INFO    Escaneados 56 tokens, 2 pasan filtros de momentum.
+04:56:05 INFO    Potencial 0.57 -> se invierten $35.31 en FTR
+04:56:07 INFO    COMPRA FTR por 0.3404 SOL (score 0.57) https://dexscreener.com/solana/fk5mugv2h3qpt6axdhs2khgdl2os424bvfeoqfntdv9y
+04:56:07 INFO    Saldo insuficiente (0.0286 SOL).
+04:56:07 INFO    Posiciones: 2 | PnL hoy: +0.0124 SOL | PnL total: -2.1515 SOL | saldo simulado: 0.0286 SOL
+04:56:18 INFO      STREAM     valor 0.3358 SOL  pnl  +87.5%  máx  +89.9%   59m
+04:56:20 INFO      FTR        valor 0.3320 SOL  pnl   -2.5%  máx   +0.0%    0m
+04:56:20 INFO    Saldo insuficiente (0.0286 SOL).
+04:56:20 INFO    Posiciones: 2 | PnL hoy: +0.0124 SOL | PnL total: -2.1515 SOL | saldo simulado: 0.0286 SOL
+04:56:38 INFO      STREAM     valor 0.3267 SOL  pnl  +82.4%  máx  +89.9%   59m
+04:56:40 INFO      FTR        valor 0.3029 SOL  pnl  -11.0%  máx   +0.0%    1m
+04:56:40 INFO    Saldo insuficiente (0.0286 SOL).
+04:56:40 INFO    Posiciones: 2 | PnL hoy: +0.0124 SOL | PnL total: -2.1515 SOL | saldo simulado: 0.0286 SOL
+04:56:40 INFO    Bot detenido. Posiciones abiertas: 2
+04:56:40 USD      Capital: $68.35 (empezo con $300, -77.2%) | efectivo $2.97 | en posiciones $65.38 | 2 abiertas | SOL=$103.84
