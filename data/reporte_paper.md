@@ -1,25 +1,25 @@
 # Reporte del bot
 
-- Operaciones cerradas: **20**
-- Win rate: **45%**
-- PnL total: **-1.8413 SOL**
+- Operaciones cerradas: **21**
+- Win rate: **43%**
+- PnL total: **-1.9865 SOL**
 - Ganancia media: +0.2819 SOL
-- Pérdida media: -0.3980 SOL
-- Profit factor: 0.58
-- Tiempo medio en posición: 135 min
+- Pérdida media: -0.3770 SOL
+- Profit factor: 0.56
+- Tiempo medio en posición: 130 min
 
 ### Por motivo de salida
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
 | liquidez | 6 | 17% | -2.8849 | -77.0% |
-| stop | 7 | 14% | -1.4286 | -32.5% |
+| stop | 8 | 12% | -1.5738 | -32.4% |
 | tiempo | 3 | 100% | +1.0240 | +86.5% |
 | trailing | 4 | 100% | +1.4482 | +74.9% |
 
 ### Por score de momentum
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
-| 0.5–0.6 | 10 | 50% | -0.0528 | +4.4% |
+| 0.5–0.6 | 11 | 45% | -0.1980 | +1.1% |
 | 0.6–0.7 | 3 | 33% | -0.3630 | -23.5% |
 | 0.7–0.8 | 3 | 33% | -0.6018 | -7.3% |
 | 0.8–0.9 | 3 | 33% | -0.8784 | -33.5% |
@@ -31,6 +31,7 @@
 | 0h–1h | 7 | 29% | -1.0484 | -13.1% |
 | 1h–3h | 11 | 55% | -1.0359 | -10.8% |
 | 6h–12h | 2 | 50% | +0.2430 | +40.0% |
+| ≥24h | 1 | 0% | -0.1452 | -31.5% |
 
 ### Por liquidez (USD)
 | grupo | trades | win rate | PnL SOL | PnL medio % |
@@ -38,12 +39,12 @@
 | 0–25,000 | 6 | 17% | -1.1822 | -38.9% |
 | 100,000–250,000 | 2 | 50% | +0.2708 | +40.8% |
 | 25,000–50,000 | 10 | 60% | -0.4105 | +11.9% |
-| 50,000–100,000 | 2 | 50% | -0.5194 | -48.8% |
+| 50,000–100,000 | 3 | 33% | -0.6646 | -43.0% |
 
 ### Por subida en 1h al entrar
 | grupo | trades | win rate | PnL SOL | PnL medio % |
 |---|---|---|---|---|
-| 0%–15% | 1 | 0% | -0.1484 | -29.3% |
+| 0%–15% | 2 | 0% | -0.2936 | -30.4% |
 | 100%–150% | 3 | 67% | +0.3426 | +29.3% |
 | 15%–30% | 5 | 80% | +0.0508 | +24.0% |
 | 30%–60% | 2 | 50% | +0.3239 | +38.4% |
@@ -54,7 +55,7 @@
 |---|---|---|---|---|
 | 1.0–1.3 | 3 | 100% | +1.2593 | +97.8% |
 | 1.3–1.6 | 10 | 20% | -2.1007 | -39.1% |
-| 1.6–2.0 | 3 | 33% | -0.6484 | -26.4% |
+| 1.6–2.0 | 4 | 25% | -0.7936 | -27.7% |
 | 2.0–3.0 | 4 | 75% | -0.3515 | +11.5% |
 
 ### Mejores y peores
@@ -79,11 +80,11 @@
   "rpc_url": "https://api.mainnet-beta.solana.com",
   "data_dir": "data",
   "scan_interval_sec": 20,
-  "paper_start_sol": 2.863962,
-  "position_size_sol": 0.286396,
+  "paper_start_sol": 2.848191,
+  "position_size_sol": 0.284819,
   "max_open_positions": 8,
-  "max_daily_loss_sol": 0.572792,
-  "min_sol_reserve": 0.02864,
+  "max_daily_loss_sol": 0.569638,
+  "min_sol_reserve": 0.028482,
   "cooldown_minutes": 720,
   "min_age_minutes": 10,
   "max_age_hours": 48,

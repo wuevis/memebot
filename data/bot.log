@@ -1763,3 +1763,18 @@
 14:58:22 INFO    Posiciones: 1 | PnL hoy: +0.3226 SOL | PnL total: -1.8413 SOL | saldo simulado: 0.3966 SOL
 14:58:22 INFO    Bot detenido. Posiciones abiertas: 1
 14:58:22 USD      Capital: $89.04 (empezo con $300, -70.3%) | efectivo $41.55 | en posiciones $47.50 | 1 abiertas | SOL=$104.75
+15:25:27 INFO    Modo: SIMULACIÓN | tamaño 0.285 SOL | máx 8 posiciones | pérdida diaria máx 0.570 SOL
+15:25:28 INFO      VEILTRUMP  valor 0.3163 SOL  pnl  -31.5%  máx   +0.0%   27m
+15:25:29 INFO    VENTA VEILTRUMP 100% -> 0.3164 SOL (-0.1452 SOL) | stop loss -31.5%
+15:25:33 INFO    Escaneados 45 tokens, 1 pasan filtros de momentum.
+15:25:35 INFO    Potencial 0.83 -> se invierten $72.10 en LEEKDUCK
+15:25:36 INFO    COMPRA LEEKDUCK por 0.6848 SOL (score 0.83) https://dexscreener.com/solana/esjrf3pkp3rpgqw9ajwa43hbubqj1yhfqeowtxhgetik
+15:25:36 INFO    Posiciones: 1 | PnL hoy: +0.1774 SOL | PnL total: -1.9865 SOL | saldo simulado: 0.0282 SOL
+15:25:48 INFO      LEEKDUCK   valor 0.5654 SOL  pnl  -17.4%  máx   +0.0%    0m
+15:25:48 INFO    Saldo insuficiente (0.0282 SOL).
+15:25:48 INFO    Posiciones: 1 | PnL hoy: +0.1774 SOL | PnL total: -1.9865 SOL | saldo simulado: 0.0282 SOL
+15:26:08 INFO      LEEKDUCK   valor 0.5765 SOL  pnl  -15.8%  máx   +0.0%    1m
+15:26:08 INFO    Saldo insuficiente (0.0282 SOL).
+15:26:08 INFO    Posiciones: 1 | PnL hoy: +0.1774 SOL | PnL total: -1.9865 SOL | saldo simulado: 0.0282 SOL
+15:26:08 INFO    Bot detenido. Posiciones abiertas: 1
+15:26:08 USD      Capital: $63.69 (empezo con $300, -78.8%) | efectivo $2.97 | en posiciones $60.72 | 1 abiertas | SOL=$105.33
