@@ -1,12 +1,3 @@
-02:05:58 INFO    Escaneados 55 tokens, 1 pasan filtros de momentum.
-02:06:00 INFO    Potencial 0.56 -> se invierten $48.48 en SEAN
-02:06:01 INFO    COMPRA SEAN por 0.4352 SOL (score 0.56) https://dexscreener.com/solana/cnvst3suymo1gfygnangygpqhwtnzzmb59wyyzqf1nvj
-02:06:01 INFO    Posiciones: 2 | PnL hoy: +0.0000 SOL | PnL total: +0.0000 SOL | saldo simulado: 1.8735 SOL
-02:06:15 INFO      GOMODOGE   valor 0.4198 SOL  pnl   +7.4%  máx   +7.4%   10m
-02:06:16 INFO      SEAN       valor 0.4358 SOL  pnl   +0.1%  máx   +0.1%    0m
-02:06:20 INFO    Escaneados 54 tokens, 0 pasan filtros de momentum.
-02:06:20 INFO    Posiciones: 2 | PnL hoy: +0.0000 SOL | PnL total: +0.0000 SOL | saldo simulado: 1.8735 SOL
-02:06:35 INFO      GOMODOGE   valor 0.4036 SOL  pnl   +3.3%  máx   +7.4%   10m
 02:06:36 INFO      SEAN       valor 0.4260 SOL  pnl   -2.1%  máx   +0.1%    1m
 02:06:40 INFO    Escaneados 54 tokens, 0 pasan filtros de momentum.
 02:06:40 INFO    Posiciones: 2 | PnL hoy: +0.0000 SOL | PnL total: +0.0000 SOL | saldo simulado: 1.8735 SOL
@@ -3998,3 +3989,12 @@
 10:58:55 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
 10:58:55 INFO    Bot detenido. Posiciones abiertas: 0
 10:58:55 USD      Capital: $3.31 (empezo con $300, -98.9%) | efectivo $3.31 | en posiciones $0.00 | 0 abiertas | SOL=$106.57
+11:23:33 INFO    Modo: SIMULACIÓN | tamaño 0.281 SOL | máx 8 posiciones | pérdida diaria máx 0.562 SOL
+11:23:33 INFO    Saldo insuficiente (0.0311 SOL).
+11:23:33 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+11:23:53 INFO    Saldo insuficiente (0.0311 SOL).
+11:23:53 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+11:24:13 INFO    Saldo insuficiente (0.0311 SOL).
+11:24:13 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+11:24:13 INFO    Bot detenido. Posiciones abiertas: 0
+11:24:13 USD      Capital: $3.32 (empezo con $300, -98.9%) | efectivo $3.32 | en posiciones $0.00 | 0 abiertas | SOL=$106.73
