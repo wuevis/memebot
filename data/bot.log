@@ -1,12 +1,3 @@
-14:24:29 INFO      Polarpine  valor 0.7046 SOL  pnl  +38.3%  máx  +40.6%   26m
-14:24:32 INFO    Escaneados 40 tokens, 0 pasan filtros de momentum.
-14:24:32 INFO    Posiciones: 1 | PnL hoy: -0.3342 SOL | PnL total: -1.7359 SOL | saldo simulado: 0.4542 SOL
-14:24:32 INFO    Bot detenido. Posiciones abiertas: 1
-14:24:33 USD      Capital: $120.63 (empezo con $300, -59.8%) | efectivo $47.28 | en posiciones $73.35 | 1 abiertas | SOL=$104.10
-14:57:35 INFO    Modo: SIMULACIÓN | tamaño 0.289 SOL | máx 8 posiciones | pérdida diaria máx 0.579 SOL
-14:57:36 INFO      Polarpine  valor 0.0817 SOL  pnl  -84.0%  máx  +40.6%   59m
-14:57:37 INFO    VENTA Polarpine 100% -> 0.0814 SOL (-0.4280 SOL) | liquidez cayó 61%
-14:57:37 WARNING Límite de pérdida diaria alcanzado: no se abren posiciones hoy.
 14:57:37 INFO    Posiciones: 0 | PnL hoy: -0.7623 SOL | PnL total: -2.1639 SOL | saldo simulado: 0.5356 SOL
 14:57:56 WARNING Límite de pérdida diaria alcanzado: no se abren posiciones hoy.
 14:57:56 INFO    Posiciones: 0 | PnL hoy: -0.7623 SOL | PnL total: -2.1639 SOL | saldo simulado: 0.5356 SOL
@@ -3998,3 +3989,12 @@
 21:11:40 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
 21:11:40 INFO    Bot detenido. Posiciones abiertas: 0
 21:11:40 USD      Capital: $3.15 (empezo con $300, -99.0%) | efectivo $3.15 | en posiciones $0.00 | 0 abiertas | SOL=$101.14
+21:50:31 INFO    Modo: SIMULACIÓN | tamaño 0.296 SOL | máx 8 posiciones | pérdida diaria máx 0.593 SOL
+21:50:31 INFO    Saldo insuficiente (0.0311 SOL).
+21:50:31 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+21:50:51 INFO    Saldo insuficiente (0.0311 SOL).
+21:50:51 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+21:51:11 INFO    Saldo insuficiente (0.0311 SOL).
+21:51:11 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+21:51:11 INFO    Bot detenido. Posiciones abiertas: 0
+21:51:11 USD      Capital: $3.15 (empezo con $300, -99.0%) | efectivo $3.15 | en posiciones $0.00 | 0 abiertas | SOL=$101.23
