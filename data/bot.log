@@ -1,12 +1,3 @@
-13:07:58 INFO    Posiciones: 1 | PnL hoy: -0.5166 SOL | PnL total: -1.9182 SOL | saldo simulado: 0.5686 SOL
-13:07:58 INFO    Bot detenido. Posiciones abiertas: 1
-13:07:58 USD      Capital: $106.39 (empezo con $300, -64.5%) | efectivo $59.89 | en posiciones $46.51 | 1 abiertas | SOL=$105.33
-13:58:25 INFO    Modo: SIMULACIÓN | tamaño 0.285 SOL | máx 8 posiciones | pérdida diaria máx 0.571 SOL
-13:58:26 INFO      SAINDRA    valor 0.4248 SOL  pnl  +99.7%  máx +127.4%  359m
-13:58:30 INFO    Escaneados 39 tokens, 1 pasan filtros de momentum.
-13:58:32 INFO    Potencial 0.59 -> se invierten $53.51 en Polarpine
-13:58:33 INFO    COMPRA Polarpine por 0.5094 SOL (score 0.59) https://dexscreener.com/solana/emriynnetbvhhmfnr9fvkwmyxy7kgkpmvxknjamaw2cc
-13:58:33 INFO    Posiciones: 2 | PnL hoy: -0.5166 SOL | PnL total: -1.9182 SOL | saldo simulado: 0.0591 SOL
 13:58:46 INFO      SAINDRA    valor 0.4270 SOL  pnl +100.7%  máx +127.4%  360m
 13:58:47 INFO      Polarpine  valor 0.4590 SOL  pnl   -9.9%  máx   +0.0%    0m
 13:58:47 INFO    Saldo insuficiente (0.0591 SOL).
@@ -3998,3 +3989,12 @@
 19:46:48 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
 19:46:48 INFO    Bot detenido. Posiciones abiertas: 0
 19:46:48 USD      Capital: $3.14 (empezo con $300, -99.0%) | efectivo $3.14 | en posiciones $0.00 | 0 abiertas | SOL=$100.98
+20:08:02 INFO    Modo: SIMULACIÓN | tamaño 0.296 SOL | máx 8 posiciones | pérdida diaria máx 0.592 SOL
+20:08:02 INFO    Saldo insuficiente (0.0311 SOL).
+20:08:02 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+20:08:22 INFO    Saldo insuficiente (0.0311 SOL).
+20:08:22 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+20:08:42 INFO    Saldo insuficiente (0.0311 SOL).
+20:08:42 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+20:08:42 INFO    Bot detenido. Posiciones abiertas: 0
+20:08:42 USD      Capital: $3.15 (empezo con $300, -98.9%) | efectivo $3.15 | en posiciones $0.00 | 0 abiertas | SOL=$101.37
