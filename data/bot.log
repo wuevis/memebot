@@ -1,12 +1,3 @@
-10:27:00 INFO      SAINDRA    valor 0.5000 SOL  pnl  +17.5%  máx  +28.9%  148m
-10:27:01 INFO      VEILDOGE   valor 0.5493 SOL  pnl   -2.5%  máx   +0.0%    1m
-10:27:01 INFO    Saldo insuficiente (0.1324 SOL).
-10:27:01 INFO    Posiciones: 2 | PnL hoy: -0.1768 SOL | PnL total: -1.5785 SOL | saldo simulado: 0.1324 SOL
-10:27:01 INFO    Bot detenido. Posiciones abiertas: 2
-10:27:01 USD      Capital: $126.01 (empezo con $300, -58.0%) | efectivo $14.11 | en posiciones $111.89 | 2 abiertas | SOL=$106.63
-10:57:55 INFO    Modo: SIMULACIÓN | tamaño 0.281 SOL | máx 8 posiciones | pérdida diaria máx 0.561 SOL
-10:57:55 INFO      SAINDRA    valor 0.6479 SOL  pnl  +52.3%  máx  +52.3%  179m
-10:57:56 INFO      VEILDOGE   valor 0.5763 SOL  pnl   +2.3%  máx   +2.3%   31m
 10:57:56 INFO    Saldo insuficiente (0.1324 SOL).
 10:57:56 INFO    Posiciones: 2 | PnL hoy: -0.1768 SOL | PnL total: -1.5785 SOL | saldo simulado: 0.1324 SOL
 10:58:15 INFO      SAINDRA    valor 0.6700 SOL  pnl  +57.5%  máx  +57.5%  179m
@@ -3998,3 +3989,12 @@
 14:51:56 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
 14:51:56 INFO    Bot detenido. Posiciones abiertas: 0
 14:51:56 USD      Capital: $3.12 (empezo con $300, -99.0%) | efectivo $3.12 | en posiciones $0.00 | 0 abiertas | SOL=$100.34
+15:13:26 INFO    Modo: SIMULACIÓN | tamaño 0.301 SOL | máx 8 posiciones | pérdida diaria máx 0.602 SOL
+15:13:26 INFO    Saldo insuficiente (0.0311 SOL).
+15:13:26 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+15:13:46 INFO    Saldo insuficiente (0.0311 SOL).
+15:13:46 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+15:14:06 INFO    Saldo insuficiente (0.0311 SOL).
+15:14:06 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+15:14:06 INFO    Bot detenido. Posiciones abiertas: 0
+15:14:06 USD      Capital: $3.10 (empezo con $300, -99.0%) | efectivo $3.10 | en posiciones $0.00 | 0 abiertas | SOL=$99.62
