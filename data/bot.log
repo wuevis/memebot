@@ -1,12 +1,3 @@
-10:57:56 INFO    Saldo insuficiente (0.1324 SOL).
-10:57:56 INFO    Posiciones: 2 | PnL hoy: -0.1768 SOL | PnL total: -1.5785 SOL | saldo simulado: 0.1324 SOL
-10:58:15 INFO      SAINDRA    valor 0.6700 SOL  pnl  +57.5%  máx  +57.5%  179m
-10:58:16 INFO      VEILDOGE   valor 0.5646 SOL  pnl   +0.3%  máx   +2.3%   32m
-10:58:16 INFO    Saldo insuficiente (0.1324 SOL).
-10:58:16 INFO    Posiciones: 2 | PnL hoy: -0.1768 SOL | PnL total: -1.5785 SOL | saldo simulado: 0.1324 SOL
-10:58:36 INFO      SAINDRA    valor 0.6632 SOL  pnl  +55.9%  máx  +57.5%  180m
-10:58:37 INFO      VEILDOGE   valor 0.5674 SOL  pnl   +0.7%  máx   +2.3%   32m
-10:58:37 INFO    Saldo insuficiente (0.1324 SOL).
 10:58:37 INFO    Posiciones: 2 | PnL hoy: -0.1768 SOL | PnL total: -1.5785 SOL | saldo simulado: 0.1324 SOL
 10:58:37 INFO    Bot detenido. Posiciones abiertas: 2
 10:58:37 USD      Capital: $145.77 (empezo con $300, -51.4%) | efectivo $14.16 | en posiciones $131.62 | 2 abiertas | SOL=$106.95
@@ -3998,3 +3989,12 @@
 15:14:06 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
 15:14:06 INFO    Bot detenido. Posiciones abiertas: 0
 15:14:06 USD      Capital: $3.10 (empezo con $300, -99.0%) | efectivo $3.10 | en posiciones $0.00 | 0 abiertas | SOL=$99.62
+15:52:13 INFO    Modo: SIMULACIÓN | tamaño 0.302 SOL | máx 8 posiciones | pérdida diaria máx 0.604 SOL
+15:52:13 INFO    Saldo insuficiente (0.0311 SOL).
+15:52:13 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+15:52:33 INFO    Saldo insuficiente (0.0311 SOL).
+15:52:33 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+15:52:53 INFO    Saldo insuficiente (0.0311 SOL).
+15:52:53 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+15:52:53 INFO    Bot detenido. Posiciones abiertas: 0
+15:52:53 USD      Capital: $3.09 (empezo con $300, -99.0%) | efectivo $3.09 | en posiciones $0.00 | 0 abiertas | SOL=$99.35
