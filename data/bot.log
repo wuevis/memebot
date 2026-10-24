@@ -1,12 +1,3 @@
-13:58:46 INFO      SAINDRA    valor 0.4270 SOL  pnl +100.7%  máx +127.4%  360m
-13:58:47 INFO      Polarpine  valor 0.4590 SOL  pnl   -9.9%  máx   +0.0%    0m
-13:58:47 INFO    Saldo insuficiente (0.0591 SOL).
-13:58:47 INFO    Posiciones: 2 | PnL hoy: -0.5166 SOL | PnL total: -1.9182 SOL | saldo simulado: 0.0591 SOL
-13:59:06 INFO      SAINDRA    valor 0.4202 SOL  pnl  +97.5%  máx +127.4%  360m
-13:59:07 INFO    VENTA SAINDRA 100% -> 0.3951 SOL (+0.1823 SOL) | tiempo máximo (360m)
-13:59:08 INFO      Polarpine  valor 0.5301 SOL  pnl   +4.1%  máx   +4.1%    1m
-13:59:12 INFO    Escaneados 38 tokens, 0 pasan filtros de momentum.
-13:59:12 INFO    Posiciones: 1 | PnL hoy: -0.3342 SOL | PnL total: -1.7359 SOL | saldo simulado: 0.4542 SOL
 13:59:12 INFO    Bot detenido. Posiciones abiertas: 1
 13:59:12 USD      Capital: $103.45 (empezo con $300, -65.5%) | efectivo $47.74 | en posiciones $55.71 | 1 abiertas | SOL=$105.10
 14:23:48 INFO    Modo: SIMULACIÓN | tamaño 0.288 SOL | máx 8 posiciones | pérdida diaria máx 0.576 SOL
@@ -3998,3 +3989,12 @@
 20:08:42 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
 20:08:42 INFO    Bot detenido. Posiciones abiertas: 0
 20:08:42 USD      Capital: $3.15 (empezo con $300, -98.9%) | efectivo $3.15 | en posiciones $0.00 | 0 abiertas | SOL=$101.37
+20:48:51 INFO    Modo: SIMULACIÓN | tamaño 0.296 SOL | máx 8 posiciones | pérdida diaria máx 0.591 SOL
+20:48:51 INFO    Saldo insuficiente (0.0311 SOL).
+20:48:51 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+20:49:11 INFO    Saldo insuficiente (0.0311 SOL).
+20:49:11 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+20:49:31 INFO    Saldo insuficiente (0.0311 SOL).
+20:49:31 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+20:49:31 INFO    Bot detenido. Posiciones abiertas: 0
+20:49:31 USD      Capital: $3.16 (empezo con $300, -98.9%) | efectivo $3.16 | en posiciones $0.00 | 0 abiertas | SOL=$101.47
