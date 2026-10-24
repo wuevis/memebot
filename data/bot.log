@@ -1,12 +1,3 @@
-12:21:41 INFO    VENTA SAINDRA 50% -> 0.4749 SOL (+0.2622 SOL) | take profit parcial 123%
-12:21:43 INFO      VEILDOGE   valor 0.7349 SOL  pnl +161.0%  máx +161.0%  115m
-12:21:46 INFO    Escaneados 39 tokens, 1 pasan filtros de momentum.
-12:21:49 INFO    Potencial 0.53 -> se invierten $42.72 en TW
-12:21:50 INFO    COMPRA TW por 0.3984 SOL (score 0.53) https://dexscreener.com/solana/ellcjttzlmeivymgamnh6hxecrbmepzes5ddegk3qgpm
-12:21:50 INFO    Posiciones: 3 | PnL hoy: +0.3765 SOL | PnL total: -1.0252 SOL | saldo simulado: 0.7816 SOL
-12:22:00 INFO      SAINDRA    valor 0.4838 SOL  pnl +127.4%  máx +127.4%  263m
-12:22:01 INFO      VEILDOGE   valor 0.7419 SOL  pnl +163.5%  máx +163.5%  116m
-12:22:03 INFO      TW         valor 0.3730 SOL  pnl   -6.4%  máx   +0.0%    0m
 12:22:07 INFO    Escaneados 38 tokens, 0 pasan filtros de momentum.
 12:22:07 INFO    Posiciones: 3 | PnL hoy: +0.3765 SOL | PnL total: -1.0252 SOL | saldo simulado: 0.7816 SOL
 12:22:20 INFO      SAINDRA    valor 0.4775 SOL  pnl +124.5%  máx +127.4%  263m
@@ -3998,3 +3989,12 @@
 17:48:56 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
 17:48:56 INFO    Bot detenido. Posiciones abiertas: 0
 17:48:57 USD      Capital: $3.12 (empezo con $300, -99.0%) | efectivo $3.12 | en posiciones $0.00 | 0 abiertas | SOL=$100.27
+18:10:19 INFO    Modo: SIMULACIÓN | tamaño 0.299 SOL | máx 8 posiciones | pérdida diaria máx 0.598 SOL
+18:10:19 INFO    Saldo insuficiente (0.0311 SOL).
+18:10:19 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+18:10:39 INFO    Saldo insuficiente (0.0311 SOL).
+18:10:39 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+18:10:59 INFO    Saldo insuficiente (0.0311 SOL).
+18:10:59 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+18:10:59 INFO    Bot detenido. Posiciones abiertas: 0
+18:10:59 USD      Capital: $3.12 (empezo con $300, -99.0%) | efectivo $3.12 | en posiciones $0.00 | 0 abiertas | SOL=$100.40
