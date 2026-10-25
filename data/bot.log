@@ -1,12 +1,3 @@
-02:56:28 INFO    Bot detenido. Posiciones abiertas: 1
-02:56:29 USD      Capital: $48.87 (empezo con $300, -83.7%) | efectivo $2.93 | en posiciones $45.94 | 1 abiertas | SOL=$103.39
-03:17:39 INFO    Modo: SIMULACIÓN | tamaño 0.292 SOL | máx 8 posiciones | pérdida diaria máx 0.584 SOL
-03:17:40 INFO      DIKSHIT    valor 0.3591 SOL  pnl  -29.2%  máx   +0.0%  134m
-03:17:41 INFO    VENTA DIKSHIT 100% -> 0.3588 SOL (-0.1484 SOL) | stop loss -29.2%
-03:17:44 INFO    Escaneados 57 tokens, 0 pasan filtros de momentum.
-03:17:44 INFO    Posiciones: 0 | PnL hoy: -0.1484 SOL | PnL total: -2.3123 SOL | saldo simulado: 0.3872 SOL
-03:18:03 INFO    Escaneados 57 tokens, 0 pasan filtros de momentum.
-03:18:03 INFO    Posiciones: 0 | PnL hoy: -0.1484 SOL | PnL total: -2.3123 SOL | saldo simulado: 0.3872 SOL
 03:18:24 INFO    Escaneados 57 tokens, 0 pasan filtros de momentum.
 03:18:24 INFO    Posiciones: 0 | PnL hoy: -0.1484 SOL | PnL total: -2.3123 SOL | saldo simulado: 0.3872 SOL
 03:18:24 INFO    Bot detenido. Posiciones abiertas: 0
@@ -3998,3 +3989,12 @@
 10:14:23 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
 10:14:23 INFO    Bot detenido. Posiciones abiertas: 0
 10:14:23 USD      Capital: $3.14 (empezo con $300, -99.0%) | efectivo $3.14 | en posiciones $0.00 | 0 abiertas | SOL=$100.84
+10:52:19 INFO    Modo: SIMULACIÓN | tamaño 0.298 SOL | máx 8 posiciones | pérdida diaria máx 0.597 SOL
+10:52:19 INFO    Saldo insuficiente (0.0311 SOL).
+10:52:19 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+10:52:39 INFO    Saldo insuficiente (0.0311 SOL).
+10:52:39 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+10:52:59 INFO    Saldo insuficiente (0.0311 SOL).
+10:52:59 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+10:52:59 INFO    Bot detenido. Posiciones abiertas: 0
+10:52:59 USD      Capital: $3.13 (empezo con $300, -99.0%) | efectivo $3.13 | en posiciones $0.00 | 0 abiertas | SOL=$100.58
