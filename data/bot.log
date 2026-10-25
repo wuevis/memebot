@@ -1,12 +1,3 @@
-08:27:17 INFO      STREAM     valor 0.4264 SOL  pnl +138.1%  máx +138.1%  270m
-08:27:18 INFO      FTR        valor 0.3307 SOL  pnl  +94.4%  máx  +97.6%  211m
-08:27:19 INFO      NIHILISM   valor 0.2279 SOL  pnl  +58.2%  máx  +67.7%   28m
-08:27:23 INFO    Escaneados 45 tokens, 0 pasan filtros de momentum.
-08:27:23 INFO    Posiciones: 3 | PnL hoy: +0.2374 SOL | PnL total: -1.9265 SOL | saldo simulado: 0.2797 SOL
-08:27:37 INFO      STREAM     valor 0.4218 SOL  pnl +135.5%  máx +138.1%  270m
-08:27:38 INFO      FTR        valor 0.3326 SOL  pnl  +95.5%  máx  +97.6%  212m
-08:27:40 INFO      NIHILISM   valor 0.2226 SOL  pnl  +54.6%  máx  +67.7%   28m
-08:27:43 INFO    Escaneados 45 tokens, 0 pasan filtros de momentum.
 08:27:43 INFO    Posiciones: 3 | PnL hoy: +0.2374 SOL | PnL total: -1.9265 SOL | saldo simulado: 0.2797 SOL
 08:27:43 INFO    Bot detenido. Posiciones abiertas: 3
 08:27:43 USD      Capital: $129.45 (empezo con $300, -56.8%) | efectivo $28.81 | en posiciones $100.64 | 3 abiertas | SOL=$103.01
@@ -3998,3 +3989,12 @@
 18:57:57 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
 18:57:57 INFO    Bot detenido. Posiciones abiertas: 0
 18:57:57 USD      Capital: $3.17 (empezo con $300, -98.9%) | efectivo $3.17 | en posiciones $0.00 | 0 abiertas | SOL=$101.78
+19:18:26 INFO    Modo: SIMULACIÓN | tamaño 0.295 SOL | máx 8 posiciones | pérdida diaria máx 0.590 SOL
+19:18:26 INFO    Saldo insuficiente (0.0311 SOL).
+19:18:26 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+19:18:46 INFO    Saldo insuficiente (0.0311 SOL).
+19:18:46 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+19:19:06 INFO    Saldo insuficiente (0.0311 SOL).
+19:19:06 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+19:19:06 INFO    Bot detenido. Posiciones abiertas: 0
+19:19:06 USD      Capital: $3.16 (empezo con $300, -98.9%) | efectivo $3.16 | en posiciones $0.00 | 0 abiertas | SOL=$101.66
