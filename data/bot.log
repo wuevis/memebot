@@ -1,12 +1,3 @@
-02:18:12 INFO      DIKSHIT    valor 0.4006 SOL  pnl  -21.0%  máx   +0.0%   74m
-02:18:12 INFO    Saldo insuficiente (0.0284 SOL).
-02:18:12 INFO    Posiciones: 1 | PnL hoy: +0.0000 SOL | PnL total: -2.1639 SOL | saldo simulado: 0.0284 SOL
-02:18:32 INFO      DIKSHIT    valor 0.4006 SOL  pnl  -21.0%  máx   +0.0%   74m
-02:18:32 INFO    Saldo insuficiente (0.0284 SOL).
-02:18:32 INFO    Posiciones: 1 | PnL hoy: +0.0000 SOL | PnL total: -2.1639 SOL | saldo simulado: 0.0284 SOL
-02:18:32 INFO    Bot detenido. Posiciones abiertas: 1
-02:18:32 USD      Capital: $44.38 (empezo con $300, -85.2%) | efectivo $2.94 | en posiciones $41.45 | 1 abiertas | SOL=$103.48
-02:55:48 INFO    Modo: SIMULACIÓN | tamaño 0.290 SOL | máx 8 posiciones | pérdida diaria máx 0.580 SOL
 02:55:48 INFO      DIKSHIT    valor 0.4373 SOL  pnl  -13.8%  máx   +0.0%  112m
 02:55:48 INFO    Saldo insuficiente (0.0284 SOL).
 02:55:48 INFO    Posiciones: 1 | PnL hoy: +0.0000 SOL | PnL total: -2.1639 SOL | saldo simulado: 0.0284 SOL
@@ -3998,3 +3989,12 @@
 09:15:48 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
 09:15:48 INFO    Bot detenido. Posiciones abiertas: 0
 09:15:49 USD      Capital: $3.13 (empezo con $300, -99.0%) | efectivo $3.13 | en posiciones $0.00 | 0 abiertas | SOL=$100.55
+09:53:32 INFO    Modo: SIMULACIÓN | tamaño 0.298 SOL | máx 8 posiciones | pérdida diaria máx 0.595 SOL
+09:53:32 INFO    Saldo insuficiente (0.0311 SOL).
+09:53:32 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+09:53:52 INFO    Saldo insuficiente (0.0311 SOL).
+09:53:52 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+09:54:12 INFO    Saldo insuficiente (0.0311 SOL).
+09:54:12 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+09:54:12 INFO    Bot detenido. Posiciones abiertas: 0
+09:54:12 USD      Capital: $3.14 (empezo con $300, -99.0%) | efectivo $3.14 | en posiciones $0.00 | 0 abiertas | SOL=$100.84
