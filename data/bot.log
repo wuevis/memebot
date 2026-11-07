@@ -1,12 +1,3 @@
-22:18:06 INFO    Saldo insuficiente (0.0311 SOL).
-22:18:06 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
-22:18:06 INFO    Bot detenido. Posiciones abiertas: 0
-22:18:06 USD      Capital: $3.22 (empezo con $300, -98.9%) | efectivo $3.22 | en posiciones $0.00 | 0 abiertas | SOL=$103.70
-22:52:55 INFO    Modo: SIMULACIÓN | tamaño 0.294 SOL | máx 8 posiciones | pérdida diaria máx 0.588 SOL
-22:52:55 INFO    Saldo insuficiente (0.0311 SOL).
-22:52:55 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
-22:53:15 INFO    Saldo insuficiente (0.0311 SOL).
-22:53:15 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
 22:53:35 INFO    Saldo insuficiente (0.0311 SOL).
 22:53:35 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
 22:53:35 INFO    Bot detenido. Posiciones abiertas: 0
@@ -3998,3 +3989,12 @@
 19:59:38 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
 19:59:38 INFO    Bot detenido. Posiciones abiertas: 0
 19:59:38 USD      Capital: $2.79 (empezo con $300, -99.1%) | efectivo $2.79 | en posiciones $0.00 | 0 abiertas | SOL=$89.57
+20:27:54 INFO    Modo: SIMULACIÓN | tamaño 0.335 SOL | máx 8 posiciones | pérdida diaria máx 0.670 SOL
+20:27:54 INFO    Saldo insuficiente (0.0311 SOL).
+20:27:54 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+20:28:14 INFO    Saldo insuficiente (0.0311 SOL).
+20:28:14 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+20:28:34 INFO    Saldo insuficiente (0.0311 SOL).
+20:28:34 INFO    Posiciones: 0 | PnL hoy: +0.0000 SOL | PnL total: -2.6684 SOL | saldo simulado: 0.0311 SOL
+20:28:34 INFO    Bot detenido. Posiciones abiertas: 0
+20:28:34 USD      Capital: $2.79 (empezo con $300, -99.1%) | efectivo $2.79 | en posiciones $0.00 | 0 abiertas | SOL=$89.58
